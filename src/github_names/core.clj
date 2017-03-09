@@ -98,7 +98,7 @@
              }))
         stat-filters)
       )
-    (prn :matched @matched-count)
+    (prn :matched @matched-count :missed (- count-names @matched-count))
 
     (let [sets
           (map (fn [[k v]]
