@@ -116,6 +116,7 @@ aay.mysql
 ab-c-website
 abaci
 abagofshoes
+abap-mind-maps
 abc
 abn
 aboutme_jotape
@@ -294,6 +295,7 @@ acts_as_follower
 acts_as_fu
 acts_as_fulltext_indexed
 acts_as_fulltextable
+acts_as_geocodable_extra
 acts_as_gold
 acts_as_hashed
 acts_as_historizable
@@ -391,9 +393,11 @@ actsaswizard
 actsasyaddayadda
 ad_templates
 adapter_extensions
+adaptive-huffman
 adastra-java
 adbcj
 add_border
+addiptc.py
 addonaddoff
 addoninstaller
 addonloader
@@ -584,6 +588,7 @@ announcements
 annoyme
 another
 another-jsunit
+another-test
 another_book_of_jon
 ansi-terminal
 ansi-wl-pprint
@@ -755,6 +760,7 @@ as3tohaxe
 as_lt_words
 asacalow.co.uk
 asaph
+asb-update
 ascends_viz
 asciibar
 asciidoc.tmbundle
@@ -982,6 +988,7 @@ bakeryman
 bakineggs.com
 ballast
 bamboo
+bamboo-adhoc
 bananoid
 band
 band-site
@@ -1164,6 +1171,7 @@ bird
 bisac
 bishop
 bitcache
+bitflu
 bitlpy
 bitly
 bits
@@ -1348,6 +1356,7 @@ brong-lwp
 brong-privatestorage
 browser_detect
 browsermips
+browserwar
 brug
 brunny
 bruse
@@ -1577,6 +1586,7 @@ certmaster
 cezobal
 cffi-j
 cffi-stfl
+cflipsum
 cgi--application--plugin--routes
 cgi-application-plugin-actiondispatch
 cgi-ext
@@ -1584,6 +1594,7 @@ cgi-session-hidden
 cgreen
 chain
 chain.js
+chained_selects
 challengeq3
 challenger
 chance
@@ -1599,6 +1610,7 @@ charm
 chart-maker-dsl
 chart_fu
 chat
+chat-logger
 chat-p2p-sip
 chat-wall
 chat_sandbox
@@ -1953,6 +1965,7 @@ conplot
 conreality
 conshell
 console-navigator
+consonance
 consp
 conspire
 constant-css
@@ -1986,6 +1999,7 @@ cookie-greeter
 cookie_crumbs
 cookr
 cool.io
+cool2
 coop-directory
 coordinate
 copenhagen-calender
@@ -2122,6 +2136,7 @@ csc
 csc3410
 csci4700
 csengine
+csh-drink-iphone
 csharplibrarystarterkit
 cspec
 css-agility
@@ -2148,6 +2163,7 @@ csvconverter
 csvdatareader
 ctest
 ctxnotes
+ctypes-opencv
 cubeat
 cuculus
 cucumber
@@ -2200,6 +2216,7 @@ d-time-tracker
 d-veryxd
 d20
 da
+da-da-da-dum
 da2
 dack
 daemon_controller
@@ -2457,6 +2474,7 @@ dissident
 distance
 distributed
 distribution-cooker
+distribution-guess-buildsystem
 distroverse
 ditty
 ditz
@@ -2496,6 +2514,7 @@ django-faq
 django-fields
 django-flash
 django-flatpage-widget
+django-fraggle
 django-frontendadmin
 django-fuzzy-time
 django-generics
@@ -2532,6 +2551,7 @@ django-positions
 django-pressbox
 django-project-base
 django-quiz
+django-repo-browser
 django-rsvp
 django-s5
 django-south
@@ -2581,6 +2601,7 @@ dm-imap-adapter
 dm-is-awesome_set
 dm-is-commentable
 dm-is-configurable
+dm-is-formattable
 dm-is-markup
 dm-is-permalink
 dm-is-protectable
@@ -2736,11 +2757,13 @@ dromaeo
 drongo
 drools
 drools.rb
+drop.io-api-php
 dropbin
 dropbox
 droplet
 droppy
 dropship
+drrty12
 drumstar
 drupal
 drupal-dav
@@ -2763,6 +2786,7 @@ dtmuxer
 dtp-toolbox
 dtr
 dtwitzen
+dubdub
 ducks-on-rails
 dugdale
 duhi
@@ -2844,6 +2868,8 @@ ec2-tools
 ec2_mysql
 ec2onrails
 ece_applications
+echi-file-eval
+echo
 echoe
 echowaves
 ecma-utils
@@ -2903,6 +2929,7 @@ elastosass
 elbe_modules
 elco
 election-sim
+electron-wordwrap
 electronic-working
 elemental
 elemental-chess
@@ -2915,6 +2942,7 @@ elliottcable.name
 elmagreb
 elock
 elock-ruby
+elock-twisted
 else.ruby
 elxr
 elysium
@@ -2933,6 +2961,7 @@ emacs-screencasts
 emacs-setup
 emacs-site-lisp
 emacs.d
+emacs_config
 emacsconfig
 emacsd
 emacsdotfile
@@ -2996,6 +3025,7 @@ entropy-oscillator.firm
 enum_fu
 enumerate_by
 enumerate_words
+enumerator
 env
 env-js
 environmentalist
@@ -3122,6 +3152,7 @@ evented_net
 eventmachine
 eventserver
 eventstorm
+eventter
 evil-ruby
 evilnumber
 evilprojects
@@ -3240,6 +3271,7 @@ faker_demo
 fakeui
 fakeweb
 falconstats
+fali
 fallow
 falta-uno
 famfamfam
@@ -3433,6 +3465,7 @@ fishy-eye-2d
 fishy-framework
 fishy-framework-base
 fit
+fitastic_wireframes
 fitnesse-intro
 fitnesse-ruby
 fiveruns_tuneup
@@ -3573,9 +3606,11 @@ forgery
 forgetmenot
 forgot_password
 forkit
+form_assistant
 form_builders
 form_fu
 form_validation
+form_x
 formatted-dates
 formatter
 formtastic
@@ -3718,6 +3753,7 @@ gamedayfilmz
 gamenight
 gamenight-mockups
 games-everquest-loglineparser
+games-mastermind-solver
 gamesaga
 gamutepu
 ganglia-gmetric-xs
@@ -4442,6 +4478,7 @@ header-with-subtitle-tsapp
 headerize
 headerscanner
 headliner
+health
 heap
 heapanalyzer
 hearth
@@ -4604,6 +4641,7 @@ html-blog
 html-simplelinkextor
 html-skeleton
 html2pdf
+html2textile
 html5.tmbundle
 html5jp_graphs
 html_helpers
@@ -5258,6 +5296,7 @@ js-scheme
 js-spec
 js-spec-server
 js-test-core
+js.class
 js.erb-auto-include-plugin
 js.tile
 js2fbjs
@@ -5334,6 +5373,7 @@ jumbletext
 jump.el
 jump_off
 jumpnbump-wii
+junction-box-
 june
 junebug
 jungerl
@@ -5456,6 +5496,7 @@ klug-source-repo
 knave-tumblelog
 knock
 knopaste.old
+knot
 knowit_0.11
 knut
 koan
@@ -5984,6 +6025,7 @@ mafie
 mag
 magento
 magento-moneris
+magic
 magic-enum
 magic-marker
 magic-wheel
@@ -6118,6 +6160,7 @@ maven-cli-plugin
 maven-emacs-plugin
 maven-itblast-plugin
 maven-jawr-plugin
+maven-scm
 maverick
 maxframe.el
 maxlib
@@ -6141,6 +6184,7 @@ me-money
 me405
 measures
 meb
+mech_farmer
 mechanical_github
 mechanize
 media_feed
@@ -6231,6 +6275,7 @@ merb-core-enterprise-edition
 merb-core-internals-handbook
 merb-datamapper
 merb-dev
+merb-doc
 merb-e-mart
 merb-extlib
 merb-fasten-the-seat-belt
@@ -6245,6 +6290,7 @@ merb-misc
 merb-more
 merb-oauth
 merb-oauth-example
+merb-openid-example
 merb-pagination
 merb-playground
 merb-plugins
@@ -6284,6 +6330,7 @@ merb_paginate
 merb_paperclip
 merb_proxy_logger
 merb_relaxdb
+merb_resource_controller
 merb_restcontroller
 merb_simple_do
 merb_strokedb
@@ -6354,6 +6401,7 @@ mico
 micro
 micro-mack
 micro_ga
+microcom
 microcontainer
 microformats_helper
 microshoes
@@ -6393,10 +6441,12 @@ minbar-applet
 mind-apples
 minds_eye
 minds_eye_forest
+mindstorm
 mingle_ubiquity
 minglefs
 mini-album
 mini-blog
+mini-eiffel
 mini-mallows
 mini-slideshow-tsapp
 mini_facet
@@ -6666,6 +6716,7 @@ mubs
 muddle
 mugshots
 mui
+multi-level-vcards
 multi_app_routing
 multi_currency
 multi_db
@@ -6728,6 +6779,7 @@ my-config
 my-configs
 my-dbicx
 my-doc
+my-dot-files
 my-emacs
 my-emacs-stuff
 my-favorite-web
@@ -6930,6 +6982,7 @@ netcon
 netdavserver
 netfilter-hook
 netflixrecommenderframework
+nethelper
 netmate
 netnewswire-friendfeed
 netnumber
@@ -6970,6 +7023,7 @@ nexxus
 nfoiled
 nginx-esi
 nginx-fancyindex
+nginx-gentoo-ebuild
 nginx-tmbundle
 nginx-upload-progress-module
 nginx-x-accel-redirect-example-application
@@ -6987,6 +7041,7 @@ nicedit-ee-extension
 nicedog
 nick_names
 nickel-silver-server
+nicodown
 nicopodcast
 nifty-generators
 nigomayobot
@@ -7365,6 +7420,7 @@ ouf_tek
 ouf_tsigo
 oughtve
 our-first-rails-project
+ouroboros
 outagemonitor
 outback
 outlook-with-attitude
@@ -8017,6 +8073,7 @@ prcc
 preallowed
 preallowed-2
 precalculation
+prefab
 preference_izzle
 preferences
 prefixed_attributes
@@ -8107,6 +8164,7 @@ projecteuler.net
 projecthub
 projector-control
 projects
+projectsuspend
 projectwiki
 projeto
 projetoteste
@@ -8149,6 +8207,7 @@ prova
 proxe
 proxy
 proxy_ping
+proyecto1
 prueba
 prueba-rails
 pruebas
@@ -8335,6 +8394,7 @@ python-ptable
 python-routefs
 python-scm-integration
 python-scripts
+python-scrubber
 python-simple-blog
 python-twitter
 python-vim-settings
@@ -8345,6 +8405,7 @@ python-zephyr
 python2.6
 pythonsnippets
 pytimeout
+pyutmp
 pyvimeo
 pyvmg
 pywebkitgtk
@@ -8401,6 +8462,7 @@ query_memcached_legacy
 query_reviewer
 query_stats
 query_trace
+queryblog
 queryset
 quester
 questionnaire_engine
@@ -8421,6 +8483,7 @@ quickodeskprofile
 quickpaylite
 quickrun
 quicksearch
+quicksect
 quickthumbs
 quietbacktrace
 quiki
@@ -8798,6 +8861,7 @@ rbcoremidi
 rbdb
 rbench
 rbet
+rbevent
 rbf
 rbgccxml
 rbiphonetest
@@ -8842,6 +8906,7 @@ rdiffdir
 rdigg
 rdiscount
 rdlogin
+rdoc
 rdoc_test
 rdtn
 reac
@@ -8913,6 +8978,7 @@ redsocks
 redsun
 redtip
 reductive-build
+redundant_links
 reek
 reevoo_assignment
 refactoring-javascript
@@ -8995,6 +9061,7 @@ reservations
 reset_css
 reshape
 reshell
+resin_container
 resolve
 resource-hacks-plugin
 resource_controller
@@ -9023,6 +9090,7 @@ restflection
 restful-authentication
 restful-authentication-i18n
 restful-authentication-with-email
+restful-iphone-app
 restful-ldap-authentication
 restful-routes
 restful-textmate-bundle
@@ -9035,6 +9103,7 @@ restful_ezm
 restful_open_id_authentication
 restful_rails
 restful_rickets
+restful_roles
 restful_workflow
 restfulauth
 restfulrails
@@ -9049,6 +9118,7 @@ retail
 retardase_inhibitor
 retchmail
 retl
+retrieve
 retris
 retro
 retrospect-gds
@@ -9414,6 +9484,7 @@ ruby-poker
 ruby-postrank
 ruby-presentation
 ruby-pro
+ruby-process-lock
 ruby-processing
 ruby-prof
 ruby-pruebas
@@ -9485,6 +9556,7 @@ rubyboleto
 rubybot
 rubybrigade.org
 rubybroker-ec2
+rubycas-client
 rubycas-server
 rubycheck_sh
 rubychecker
@@ -9841,6 +9913,7 @@ segp2
 segue
 segue-1.x
 seinfeld
+seinfeld-calendar
 select-autocompleter
 selection
 selective_mapper
@@ -10033,6 +10106,7 @@ simple-cms
 simple-color-picker
 simple-daemon
 simple-fastercsv-example
+simple-gem
 simple-growl
 simple-lexer
 simple-parser
@@ -10117,6 +10191,7 @@ site
 site-editor
 site-lisp
 site-sample
+site-skel
 site_config
 site_connection
 site_notifications
@@ -10217,6 +10292,7 @@ smtpecho
 smu_cse
 smugbatch
 smugrb
+smusher
 snail
 snake
 snake-3d
@@ -10422,6 +10498,7 @@ squerm
 squid
 squid_mysql_auth
 squirrel
+sr
 srt-editor-in-ruby
 srtm2postgis
 srug1
@@ -10540,6 +10617,7 @@ studio
 study
 studypal
 studyplanner
+stuff
 stump
 stupid
 stutools
@@ -10576,6 +10654,7 @@ super-star-rating
 super_range
 super_simple_cms
 supernova
+supersearch
 supersonic
 superstring
 supertest
@@ -10689,6 +10768,7 @@ talk_oscon2008_rails_plugins
 talks
 tallstreet
 tamis
+tammy-cravit-s-utilities
 tampere.rb
 tan_update
 tanga-random-questions
@@ -11150,6 +11230,7 @@ todotwo
 todotxt
 tofublox
 tog
+tog_beta
 tog_bookmarks
 tog_conclave
 tog_conversatio
@@ -11189,6 +11270,7 @@ top-digger-tool
 topaz-ess-demo
 topcat
 topics
+topnux
 torgo
 torix
 torrent-search
@@ -11215,6 +11297,7 @@ tpw
 trabalho_compiladores
 trac-cc
 trac-cl
+trac4r
 trace-lfe
 traceable
 tracepaper
@@ -11395,6 +11478,7 @@ twitter_track
 twitter_weatherbot
 twitterback
 twitterbot--public-dms
+twittercompare
 twitterdroid
 twitterer
 twitteria
@@ -11512,6 +11596,7 @@ unit-controller
 unit-formula
 unit-record
 unit-test
+unitkit
 unittest-cpp
 unittest-xml-reporting
 universal_ruby_whois
@@ -11756,6 +11841,7 @@ voodoodown
 voperm
 vote
 vote_fu
+voteing
 votereport
 votereport-iphone
 voting-condorcet-rankedpairs
@@ -11882,6 +11968,7 @@ websequencediagrams
 webservice-backlog
 webservice-hatena-diary
 webservice-timeline
+webshop
 webshop_prototype
 website
 webspamblacklist
@@ -12005,6 +12092,7 @@ woods
 woodson-ptsa-home-page
 woof
 woot-watcher
+word_cheat
 word_salad
 wordbless
 wordcorr
@@ -12093,6 +12181,10 @@ www-google-docs-upload
 www-ohloh-api
 www2popup-gate
 wwwclient
+wx-app-mp3player
+wx-perl-entrylist
+wx-perl-listctrl
+wx-perl-listview
 wx-spice
 wydatki
 wym_editor_helper
@@ -12127,6 +12219,7 @@ xenon-emulator
 xesamclient
 xeteri
 xfce-po-translation
+xfer-gmail-imap
 xfigrb
 xfn_stone
 xgame
@@ -12336,6 +12429,7 @@ zoned
 zookeeper
 zookeeper_client
 zoomix
+zozophoto
 zp_grabber
 zsh
 zsh-completions
