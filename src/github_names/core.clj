@@ -72,6 +72,7 @@
                             (re-find #"[A-Z]" n)
                             (re-find #"[-_]" n))),
    :numeric-start (fn [n] (re-matches #"[0-9][A-Za-z0-9-_]*" n)),
+   :sep-start     (fn [n] (re-matches #"[-_][A-Za-z0-9-_]*" n)),
    :mix-chars'-_' (fn [n] (and
                             (re-matches #"[a-z][a-z0-9-_]*" n)
                             (re-find #"-" n)
@@ -111,6 +112,7 @@
         (for [x sets y sets :when (not= x y)]
           (if-let [inter (seq (sets/intersection (:set x) (:set y)))]
             [ "intersect" (:key x) (:key y) inter]))))
+      (pp/pprint (reduce sets/difference (set names) (map :set sets)))
       )
     )
   )
