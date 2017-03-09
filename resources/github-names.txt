@@ -25,6 +25,7 @@
 123
 15puzzle
 18f2455bstrap
+1fileapps
 1kg.org
 1x9
 20seven-emacs
@@ -145,6 +146,7 @@ Email-MessageID
 Email-Reply
 Email-Send
 Email-Send-IO
+Email-Sender
 Email-Simple
 Email-Simple-FromHandle
 Email-Store
@@ -343,6 +345,7 @@ accessible_record
 accidentally
 accord
 accordion
+account_graph
 account_location
 aceldama
 acilkan
@@ -361,6 +364,7 @@ acrp
 acrylic
 act_as_commentable
 action-mailer-queue
+action-view-pick-template-fix
 action_button
 action_flow
 action_mailer_layouts
@@ -391,6 +395,8 @@ active_gainer
 active_idea
 active_lastfm
 active_merchant
+active_merchant_sermepa
+active_model
 active_olap
 active_pedro
 active_presenter
@@ -523,6 +529,7 @@ acts_as_featured
 acts_as_feed
 acts_as_ferret
 acts_as_file
+acts_as_flying_saucer
 acts_as_follower
 acts_as_fu
 acts_as_fulltext_indexed
@@ -558,11 +565,13 @@ acts_as_nested_set
 acts_as_network
 acts_as_nice_url
 acts_as_oauthenticated
+acts_as_ooyala
 acts_as_ordered
 acts_as_ordered_tree
 acts_as_overflowable
 acts_as_overridable
 acts_as_paranoid
+acts_as_paranoid_copy
 acts_as_parent_of
 acts_as_passive_aggressive
 acts_as_payment
@@ -617,6 +626,7 @@ acts_as_taggable_on_steroids
 acts_as_taggable_redux
 acts_as_tagtree
 acts_as_temporal
+acts_as_textiled
 acts_as_tokenizable
 acts_as_tree
 acts_as_tree_hacks
@@ -725,6 +735,8 @@ aggregator
 agile-lamp
 agile-web-development-report
 agilebill
+agilemovement
+agileprojectmanagement
 agility
 agility2
 agiserver
@@ -741,6 +753,7 @@ ahayo
 ahyane
 ai
 ai-nqueens
+ai2
 aida
 aif
 aikidev_resources
@@ -758,6 +771,7 @@ air_speakers
 airake
 airbrush
 airplane-website
+airportflow
 airshows
 airspeed
 ais-logger
@@ -780,6 +794,7 @@ ajm_objects
 ake
 aker
 aki
+akisute_cs193p
 aku
 al
 alacast
@@ -843,9 +858,11 @@ amazon-associates
 amazon-ec2
 amazon-simpledb
 amazon_associate
+amazon_items
 amazon_product_lookup
 amazon_ruby_tools
 amazonresources
+ambernet
 ambit
 ambition
 ambitious-facebook
@@ -868,6 +885,7 @@ amqp-flash-ruby-rpc
 amqponopenvms
 amrita
 amsn2
+amzn-web-services
 an_acl
 ana
 analisis-numerico
@@ -891,6 +909,8 @@ angelos
 angrytechie.com
 ani-midi
 anigma
+anki-jlpt-kanji-stats
+ankiplugins
 anna
 annotate-models
 annotate_models
@@ -919,9 +939,11 @@ answer-card-recognition
 ant-skeleton
 ant-tools
 anthronet-coding
+anti_object
 antlr-3
 antlr-elisp
 antlr3-python-example
+antourage
 antsperry
 anvil
 anybot
@@ -945,11 +967,13 @@ apclock
 apcompsci
 ape-extensions-bundle
 apeonsburden
+api.openchron.org
 api_cache
 api_faker
 apiextractor
 apjava-lab1
 apjava-lab2
+apjava-lab3
 aplicacionesportables
 apn
 apogeus
@@ -991,6 +1015,8 @@ appkernel
 apple
 apple-home-dev
 applebin
+applekeyboarddriver
+applescript-loader-and-module-library
 applescripts
 applescripttodictionarywithnutoo
 appletrailers
@@ -1058,7 +1084,9 @@ archlinux
 archscript
 arclite
 ardes_authenticated_system
+arduino
 arduino-blink
+arduino-rails-temperature-monitor
 arduino-seq
 arduino-sketches
 arduino.tmbundle
@@ -1145,12 +1173,14 @@ asked_and_answered
 askeet-symfony1_2
 askexperts
 askito
+aslib
 asm6502
 asmonkey
 asmprettify
 asn
 aspect
 aspectory
+aspicious
 aspireforge
 ass-coletor
 assample
@@ -1173,6 +1203,7 @@ assets
 assets_packager
 asshatzapper
 assign_by
+assignment4
 associated_save
 association-freezer
 association-lists
@@ -1202,8 +1233,12 @@ at-ar
 at-media
 atalhos-para-rails
 ateamscp
+athena
+athy
 atix-django
+atlanta
 atlantis
+atlassian-pdkinstall-plugin
 atlhack-stats-and-plots
 atmelprojects
 atom
@@ -1245,6 +1280,8 @@ attr_string
 attr_visible
 attractions
 attribute-decorator
+attribute_assembler
+attribute_escape
 attribute_fu
 attribute_labels
 attribute_predicates
@@ -1311,6 +1348,7 @@ autocode
 autocomplete.localadvanced
 autocompletion-php-functions
 autocompletter
+autocook
 autocw
 autodie
 autofoo
@@ -1369,6 +1407,7 @@ ba
 baba
 babel
 babelbird
+babilu
 baby-evemon
 babygitter
 babygittersite
@@ -1407,15 +1446,18 @@ bagpipemusic
 bagpipes
 bah
 bakalar
+baker
 bakery
 bakeryman
 bakineggs.com
+balie
 ballast
 bamboo
 bamboo-adhoc
 bananoid
 band
 band-site
+bandit
 bangkokbase
 bankjob
 bantlr
@@ -1426,6 +1468,7 @@ barby
 barcamp
 barcamp-adhearsion
 barcamp_schedule
+barcampbangalore
 barcamporlando-scheduler
 barceloneta
 barduino
@@ -1436,6 +1479,7 @@ barleysodas
 barnowl
 barrettlittle.com
 bart
+bartenderinthebox
 barter
 base-authenticated-merb-app
 base-jump
@@ -1508,6 +1552,7 @@ bdlib
 bdocuments
 bdrb-presentation
 be_indexed
+beagle-android-kernel
 beagleboard_validation
 beamglue
 beanstalk-client-ocaml
@@ -1526,6 +1571,7 @@ beautiful
 beautiful-data
 beboist
 becca
+become_contestable
 bedpostx_ec2
 bee
 bee.test
@@ -1534,6 +1580,7 @@ beenverified-api
 beeptoys
 beeroverip
 beertweets
+befunge-93
 beginning-python-for-bioinformatics
 behave_like_resource
 belated
@@ -1553,6 +1600,7 @@ berry-patch
 berry_blast.tmtheme
 bertrand
 bespoke
+best
 best-asot
 beta_invitation
 betabrite
@@ -1576,6 +1624,7 @@ bg-secure
 bgiframe
 bhelpbook
 bib
+bibby
 bible
 biblemug
 big-bold-text-area-tsapp
@@ -1613,6 +1662,7 @@ bio_seqlogo
 biocad
 biocad_preview
 bioclipse.ons
+bioe007configs
 bioimagelogin
 bioinform_attic
 bioinformatics-career-survey
@@ -1656,6 +1706,7 @@ blackjack
 blackjackdrill
 blacklist
 blah
+blahnet
 blame
 blame-browse
 blamer
@@ -1679,6 +1730,7 @@ blinksale-greasemonkey
 blip
 blit
 blit-dev
+blitz-euler
 blobtracker
 block-chainable
 block-css
@@ -1771,6 +1823,7 @@ book_mdar
 book_service
 bookcollection
 bookez
+bookkeeper
 bookmarkdb
 bookmarklets
 bookmasters_ruby
@@ -1786,6 +1839,7 @@ boolean_util
 booleanize
 boost
 boost.php
+boost_subgraph_serialize
 boots-puzzle
 bootstrapper
 booty
@@ -1880,6 +1934,7 @@ brute_push
 brweber2
 bryar-datasource-multiplex
 bscripts
+bsdpkg
 bsdtrafstats
 bsoftwareupdate
 bspec_cucumber
@@ -1890,6 +1945,7 @@ bti
 bubba
 bubble_association_validation_errors
 bubblegum
+bubbling-examples
 bucket
 bucknellbug
 budapestrb-blog
@@ -2013,8 +2069,10 @@ calendar_date_select_demo
 calendar_fu
 calendar_helper
 calendaraboutcoding
+calendarview
 cali.cpp-fourteener
 californiavoices
+call-tester
 call-to-action-tsapp
 call_with_locals
 callbacks
@@ -2078,6 +2136,7 @@ cappuccino.foam
 cappuccinoitunesexample
 capsize
 captcha
+captcha_service
 captcha_with_question
 captor
 capture-fotolife
@@ -2124,6 +2183,7 @@ cataglyphis
 catalyst-controller-flashremoting
 catalyst-helper-capistrano
 catalyst.tmbundle
+catalystx-example-chained
 catan-dice
 catch_cookie_exception
 catcomm
@@ -2165,6 +2225,7 @@ cffi-j
 cffi-stfl
 cfl-stats
 cflipsum
+cflp
 cft
 cgi--application--plugin--routes
 cgi-application-plugin-actiondispatch
@@ -2227,6 +2288,7 @@ cheeky
 cheepcheep
 cheeserater
 cheetahwatch
+cheminfbenchmark
 chemistry-elements
 chemruby
 chenilles
@@ -2259,6 +2321,7 @@ chiplog
 chiplog_proj
 chipmunk
 chippino
+chiragandnancy
 chit
 chito
 chitransit
@@ -2271,6 +2334,7 @@ choones
 choosy-osx-plugin
 chord
 chris.makarsky.com
+chrischandler
 christian_cms
 chromics
 chromium
@@ -2289,6 +2353,7 @@ chyrp-site
 ci_for_the_rails_guy_or_gal
 ci_reporter
 ciat
+cicada
 cil
 cinabox
 cincinnati.rb
@@ -2305,14 +2370,17 @@ cl-format
 cl-lastfm
 cl-parser-combinators
 cl-reminders
+cl-simple-sequence
 cl-slimtimer
 clag
 clamav
+clambake
 class
 class-dbi-hasvariant
 class-dbi-mssql
 class-inheritable-attributes
 class-insideout
+class-methodmaker
 class_project
 class_table_inheritance
 classes_for_types
@@ -2329,6 +2397,7 @@ classx
 classx-pluggable
 classy_forms
 classy_inputs
+classy_tee
 clay-pigeon
 clean-mail
 cleaning-lady
@@ -2353,6 +2422,7 @@ click_to_copy_text_field
 clickatell
 clickatell-mass
 clickcheck
+clicktocalljava
 clicky
 client_date
 clientperf
@@ -2372,6 +2442,7 @@ clitter
 clj-doc
 clj-html
 clj-html-helpers
+clj-libs
 clj-processing
 clj-pt
 cljext
@@ -2410,12 +2481,14 @@ cluck
 clustered-fold
 clustered-jruby
 clusterfly
+clusterl
 clutter-md2
 clvrfst
 cmake-modules
 cmd
 cmdrkeene
 cmemcache-yelp
+cmess
 cmp-meshop
 cmpt-371-project-1
 cms
@@ -2431,9 +2504,11 @@ cobaia
 cobalt
 cobbler
 cobbler-old_jobs
+cobra
 cocoa
 cocoa-crypto
 cocoa-extensions
+cocoa-fire-eagle-framework
 cocoa-nu-template
 cocoa-programming
 cocoa-programming-with-nu
@@ -2469,6 +2544,7 @@ code_tennis
 code_wrapper_on_shoes
 codea_library
 codebits
+codec-engine-demo
 codeforpeople
 codegolf
 codehighlighter-languages
@@ -2478,6 +2554,7 @@ codemetre
 codename-generator
 codename.chobits
 codenamecms
+codered
 codereviewtool
 codes
 codesoft
@@ -2563,6 +2640,7 @@ commentr
 comments
 commercial-site-skin
 commission_junction
+commitbot
 commitmessage
 commode
 common
@@ -2614,9 +2692,11 @@ composite_primary_keys
 composition_generator
 compositions
 compree
+compression_tester
 compu2
 computacion2
 computer-bot--twitter-edition
+computer-graphics
 computerbot
 conceptual_algorithms
 concerned_with
@@ -2651,6 +2731,7 @@ confluence-attach
 confusa
 congreso
 conhist
+conjure
 conley
 conn
 connector
@@ -2674,6 +2755,8 @@ contact-form-generator
 contact_csv
 contact_siphon
 contacts
+content-febp
+content-fecr
 content_given
 content_refresher
 contenter
@@ -2705,7 +2788,9 @@ cool2
 cooldog
 cooldoger
 coop-directory
+coord
 coordinate
+cop_restful_captcha
 copenhagen-calender
 copy-as-rtf-tmbundle
 copyallurls
@@ -2731,6 +2816,7 @@ coreforms
 corejs
 coreplus
 corewarriors
+corn
 corripio
 cortexm3
 corundum
@@ -2744,6 +2830,7 @@ couch-todo
 couch_potato
 couchblog
 couchdb
+couchdb-client
 couchdb-example-blog
 couchdb-lua-viewserver
 couchdb-performance-tests
@@ -2780,6 +2867,7 @@ cpew
 cpg-badbehavior
 cpg-httpbl
 cplay
+cplus2ruby
 cplusplus
 cpp
 cppbat
@@ -2806,6 +2894,7 @@ crdict
 crealis
 creat-site
 create-dmg
+create_github_project
 createindexftp
 credentials
 creole
@@ -2851,6 +2940,7 @@ cruisecontrolrb_perforce
 cruisesaver
 cruising
 crummy
+crush
 crushlogic
 crushserver
 cry
@@ -2898,6 +2988,7 @@ cssdoc
 csshttprequest
 csspool
 cstk
+csv-mapper
 csv-runner
 csv-to-sql
 csv2db
@@ -2920,6 +3011,7 @@ cuecat
 cufon
 culinary-concepts
 culwiki
+cumulus
 cuniculicavum.com
 cups-usbbackend
 curator
@@ -2945,6 +3037,7 @@ curvr
 custer
 custom-err-msg
 custom-gtk-widgets
+custom_change_messages
 custom_logger
 custom_mailers
 customers-tsapp
@@ -3046,6 +3139,7 @@ data_table
 database-counters
 database_form
 databinding
+dataencryptionstandard
 datagrammer
 datamapper-mailchimp-adapter
 datarequestor
@@ -3060,8 +3154,10 @@ datedbackup
 dateedit
 datepicker
 datepicker-fu
+datetaglistfield
 datetimerange-tsapp
 datetimex-easy
+dats
 daum
 dautostart
 daves-resume
@@ -3070,7 +3166,9 @@ daviddee
 days_and_times
 daytrader
 db-populate
+db2-on-campus-portal
 db2vc
+db_branch
 db_console
 db_mappings
 db_migration_dry_run
@@ -3114,6 +3212,7 @@ dearzend-server
 deb-glusterfs
 deb-passenger
 deb-rubygems
+debexpo
 debian-pkgs
 debian-study-live-cd
 debian-study-live-dvd
@@ -3146,6 +3245,7 @@ default_text_fields
 default_value_for
 default_values
 defaults
+defenders_of_the_erb
 defensio
 definilizer
 degrafa-path-demo
@@ -3162,6 +3262,7 @@ delicious-backup
 delicious-bot
 delicious-ext
 delicious-reader-opera
+delicious-user-top
 delicious_combo_box
 delicious_sidebar
 delimited_file
@@ -3170,6 +3271,7 @@ delphi
 delphosit
 delsolr
 delta_attack
+deltatemp
 deluuxjournal
 delve
 demacs
@@ -3190,6 +3292,7 @@ denklab
 denormalizer
 denormalizes
 dent
+depcore
 dependencies_resolver
 dependency_management_talk
 dependent_records
@@ -3203,7 +3306,9 @@ depot
 depot-app-example
 deprec
 deprecated
+dermayu1974
 des-cript
+desa-con
 descendant_nav_tabs
 descts
 desert
@@ -3227,6 +3332,8 @@ devel-gladiator
 deviantart-lib
 devicesync
 devo-action
+devon
+devon-tmbundle
 devpay
 devwiki_1
 dfamin
@@ -3260,6 +3367,7 @@ diet_hacker
 diff
 diff-visualizer
 diff_to_html.rb
+diffie-hellman
 diffly
 digest
 digest-skein
@@ -3300,6 +3408,7 @@ dist-release
 dist-zilla
 distance
 distributed
+distributedwikipedia
 distribution-cooker
 distribution-guess-buildsystem
 distroverse
@@ -3325,6 +3434,8 @@ django-announcements
 django-app-test-runner
 django-apps
 django-assetpackager
+django-autolinks
+django-avatar
 django-aws
 django-ban
 django-basic-apps
@@ -3397,10 +3508,12 @@ django-monetize
 django-newsletter
 django-newtagging
 django-nodoubleslashes
+django-oembed
 django-omb
 django-on-gae
 django-oopviews
 django-openid
+django-pagination
 django-paginator
 django-payment-ideal
 django-payment-ogone
@@ -3414,6 +3527,7 @@ django-positions
 django-pressbox
 django-project-base
 django-quiz
+django-relax
 django-repo-browser
 django-restviews
 django-rst-attachments
@@ -3428,14 +3542,17 @@ django-syntax-colorize
 django-tagging
 django-tagging-ng
 django-taskforce
+django-template-previewer
 django-template-urls
 django-templatesadmin
+django-tenderize
 django-test-extensions
 django-test-utils
 django-threadedcomments
 django-timezones
 django-train
 django-tumblr
+django-twitterauth
 django-userskins
 django-valhalla
 django-valhalla-templates
@@ -3449,9 +3566,12 @@ django_cherrypywsgi
 django_social
 django_templatecomponents
 django_test
+djangobot
+djangochat
 djangregator
 djarss
 djava
+djbdns
 djegg
 djumble
 dkinter
@@ -3470,6 +3590,7 @@ dm-core
 dm-core-old
 dm-dbslayer
 dm-exampleapp
+dm-fasten-the-seat-belt
 dm-gen
 dm-geokit
 dm-gitdb
@@ -3485,6 +3606,7 @@ dm-is-permalink
 dm-is-protectable
 dm-is-rateable
 dm-is-reflective
+dm-is-revisioned
 dm-is-slug
 dm-is-taggable
 dm-isbndb-adapter
@@ -3525,10 +3647,14 @@ dnet
 dns
 dnsbl_client
 dnscurve
+dnssd
 do
 doakes
 doc
 doc-css
+docbook-framework
+docbook-spec-skeleton
+docbook-template
 docbook5-tmbundle
 docbox
 docbox-sample-app
@@ -3542,8 +3668,10 @@ document-cabinet
 document-center-gui
 document-stembolt
 documents
+doczilla
 dod3
 doeet
+doer
 dofus-ruby
 dofus-treasury
 doggythong.net
@@ -3561,9 +3689,11 @@ dokkit-tmbundle
 dokpro
 dokuoauth
 dokurpcpub
+dokuwiki-syntaxhighlighter
 dolphy
 dom-test-suite
 dom_names
+domain-driven-design
 domain-naminator
 domain_manager
 domainformatter
@@ -3576,6 +3706,7 @@ don-t-break-the-chain
 don-t-send-it
 donationapp
 donebox
+donemanager
 donor-list
 dont_repeat_yourself
 doodle
@@ -3622,6 +3753,7 @@ dots
 dotscy
 dotvim
 dotvim-old
+dotvim_jcf
 douban-collection-explorer
 douban-offline
 doubanbot
@@ -3635,6 +3767,7 @@ downcount
 downloadgooglebooks
 downloads
 dowoscillator
+dpaste.el
 dpce
 dpcgoban
 dpkg-tools
@@ -3643,18 +3776,22 @@ dpm
 dr-nic-magic-awesome
 dr-nic-magic-models
 drafter
+drag
 drag-queen
 drag_drop
 draggabledownloadplugin
 dragonboat
 dragonfly
+dragup
 dramatis
 dramatis-examples
+drawer
 drawing-app
 drawingspaces
 drbirb
 drc-test
 drcureta
+dreamsand
 dreek
 drgoban
 drift
@@ -3694,6 +3831,7 @@ dry-report
 dry_plugin_test_helper
 drydock
 drydrop
+dryopteris
 ds_memcached
 dsfja-adm
 dsipcom
@@ -3755,7 +3893,9 @@ dzen2-nagios
 e-archia
 e-k-summer-08
 e107wiki
+e164
 e2lan
+e2thex.org
 e4
 eLib2
 each_in_batches
@@ -3782,8 +3922,10 @@ easy_http_cache
 easy_search
 easybooks
 easybtest
+easycomments
 easycv
 easygoer_test
+easyjour
 easyopenid
 easypxe
 easyshare
@@ -3800,6 +3942,7 @@ ebb
 ebisu
 ebookvault
 eboshi
+ebuild-mantenance
 ebview
 ec2-cap
 ec2-extra-tools
@@ -3832,13 +3975,16 @@ editgrid-rb
 editingui
 editinplace
 editorkicker
+edmessage
 edmodo-test
 edms
+edms2008
 edna
 ednaunpack
 eds-utils
 edu-gkcours
 edu-ihmprojet2
+eduquestion.org
 edutopia
 edwdweewdwe
 eecs_268
@@ -3846,6 +3992,7 @@ eegloo
 eegloo_depreciated
 eejpn_langfiles
 eeml-ruby
+eep0018
 eert
 effective_scaffold
 effen
@@ -3859,6 +4006,7 @@ ehwizard12
 ehwizard13
 ehwizard14
 eidynrepo
+eiformula
 eijiro-pl
 einstein
 ejabberd
@@ -3914,7 +4062,10 @@ emacs-chess
 emacs-config
 emacs-configuration
 emacs-diary
+emacs-grep-a-lot
+emacs-grep-o-matic
 emacs-rails
+emacs-repository-root
 emacs-ruby-electric
 emacs-screencasts
 emacs-setup
@@ -3938,6 +4089,7 @@ email-store-thread
 email_labs_client
 email_perm_usage
 emailid
+emailr
 emarer
 emastic---css-framework--beta3--0.8
 embed_allower
@@ -3947,6 +4099,7 @@ embroidr
 emcommdb
 emcov_ui
 emcrepstrap
+emend
 emerald_city
 emergence
 emergency-phone-lists
@@ -3970,6 +4123,7 @@ ems
 emuonrails
 emworker
 enactedcolor
+enano
 encoder_utils
 encontre_nos
 encrypted_attributes
@@ -3981,6 +4135,7 @@ endless_page
 endless_pageless
 enfarmer
 engine
+engine-showcase
 engines
 engines_generator
 engineyard-admin-tool
@@ -3993,6 +4148,7 @@ enhanced_migrations
 enhanced_request_forgery_protection
 enhanced_search
 enjoy
+enju_root
 enki
 enlarge
 enlightened_observers
@@ -4018,15 +4174,18 @@ eofsim
 eopl-exercises
 ep-s
 epf
+epgrabber
 epic-audio
 epimorphism_old
 epiphany
 epiphany-searchbox-extension
+episodifier
 epit
 epop
 epsimulator
 equilibrium
 equipment-management
+equipment-management-merb
 er-scout-plugins
 er-systemf
 erasvit
@@ -4091,6 +4250,7 @@ erlreis
 erlrrd
 erlxslt
 erlycache
+erlycomet
 erlydtl
 erlyfire
 erlyfirerb
@@ -4115,6 +4275,7 @@ eshcerworld
 esi-blog
 esmtp
 esortcode
+espec
 especial
 espionage
 esquilino-commons
@@ -4136,6 +4297,8 @@ etl-java
 etocom
 etorrent
 etoy.shareholders
+etsy_api
+etsy_api-php
 eugvac-test
 euler
 euler-in-clojure
@@ -4146,6 +4309,7 @@ eupathdb_ubiquity
 eurjel
 euro-2008
 europln
+euruko_app
 evaluador
 evaluate
 evan-haskell-euler
@@ -4155,6 +4319,7 @@ eve-igb
 eve-language
 eve-skills
 eve_api_tools
+eve_corplogo_generator
 eve_killmail_parser
 event-calendar
 event-lib
@@ -4212,6 +4377,7 @@ exmap
 exoself
 expand
 expanda
+expander
 expectations
 expectorant
 expediamedicus
@@ -4223,6 +4389,7 @@ experiments
 experitia
 exphy
 expiration-date
+expiring_memory_store
 explainpmt
 export_ensemble
 expressionengine-tweaked-tmbundle
@@ -4249,6 +4416,7 @@ external
 external-api-integration
 external-components
 externals
+extjs-tmbundle
 extjs_helper
 extlib
 extprot
@@ -4309,6 +4477,7 @@ fairtrade
 fake
 fake-tpw
 fake_record
+fake_vcs
 fakemail
 fakequery
 faker
@@ -4324,7 +4493,9 @@ fallout
 fallow
 falta-uno
 famfamfam
+famfamfam-flags-yaml-file-generator
 famicles
+familysite
 familytree
 fancy-zoom
 fancylwncomments
@@ -4369,10 +4540,12 @@ fb_skills
 fbchat
 fbd-liftweb-widgets
 fbptest
+fbrp
 fbtest
 fbu-config
 fcgi_status
 fcgiwrap
+fckeditor
 fckeditor_on_rails
 fd-slider
 fdl
@@ -4429,12 +4602,14 @@ fftogo
 ffviews
 ffxip
 fgsfds
+fhfighter
 fiber18
 fibmapsort
 ficonab_tools
 field_restrictions
 fieldhints
 fields_enclosure
+fiery-biscuits
 fifteen
 fightclub
 fii-dot-fvwm
@@ -4501,6 +4676,7 @@ findyourmp
 fingers
 fingr-group
 finneganswake
+fire
 fire-eagle-iphone-updater
 fire-eagle-python-binding
 fire-gardy-stat-grabber
@@ -4593,9 +4769,11 @@ flags_column
 flails
 flame
 flametouch
+flanki
 flap
 flapjack
 flare
+flash-doom
 flash-library
 flash-message-conductor
 flash_alerts_helper
@@ -4603,10 +4781,12 @@ flash_divs
 flashbox
 flashcard
 flashdance
+flashsdl
 flashtaculo-us
 flat_filer
 flat_lady
 flatirons
+flattendb
 flavorsample
 flay
 flc-mesh
@@ -4646,8 +4826,10 @@ flickr_context_tags
 flickr_fu
 flickr_sidebar
 flickraw
+flickrdpf
 flickrget
 flickroff
+flickrshout
 flickry
 flicks-rails
 flight
@@ -4683,6 +4865,7 @@ flux-balance-analysis-toolbox
 fluxunit
 flv-player
 flvr
+flyingsaucer4r
 flymediacenter
 flyparse-mode
 flytecfs
@@ -4693,6 +4876,7 @@ fmq
 fmq-java
 fmt
 fnv
+foam
 fobliki
 focuses_on
 focusr
@@ -4702,6 +4886,7 @@ fogbugz_offline
 fold
 follotter-crawler
 follotter-queueserver
+follow-cursor
 followtwits
 foltia-the-next-generation
 fon-login
@@ -4709,6 +4894,7 @@ foneshow-website
 font-detect-js
 font-manager
 foo
+fooberto
 foobox
 food
 foodfinder
@@ -4736,7 +4922,9 @@ forgery-demo
 forgetful
 forgetmenot
 forgot_password
+forking-server-framework
 forkit
+forklift
 form_assistant
 form_builder
 form_builders
@@ -4745,17 +4933,20 @@ form_fu
 form_toolkit
 form_validation
 form_x
+formalia-iw-mi
 formatted-dates
 formatter
 formtastic
 formvalidator-assets
 fortifiedforest
+fortran
 fortress
 fortune
 fortythree_sidebar
 fortythreeplaces_sidebar
 forum
 forumtastic
+foswiki
 foundly
 fourblock
 fox
@@ -4768,6 +4959,7 @@ fpdi
 fpf_git
 fpt
 fquery
+fractal-racer
 fractions
 frag
 frajer
@@ -4779,6 +4971,7 @@ framework-redmash
 framework-sourmash-kit
 framy
 franklinchart
+freckle-cmd
 free-sms-web-service
 free-wordpress-sandbox-themes
 free_cite
@@ -4803,6 +4996,7 @@ freespeech
 freestyle
 fregex
 frenchbase
+frendid-share
 frendid_api_client
 frenemi
 freport
@@ -4812,6 +5006,7 @@ freshbooks.py
 freshbooks.rb
 freshbooksrb
 freshzen
+fresnel
 fretsonfire
 friendfeed-api
 friendfeed-iphone
@@ -4851,7 +5046,9 @@ fsevents
 fsharpmonorail
 fsirc
 fsp-h-jmi
+fstf
 fsubscript
+ftd2xxj
 ftdhorde
 ftdiclean
 ftp-client
@@ -4880,6 +5077,7 @@ furwall
 fuse4j
 fusecompress
 fusefs
+fusejs
 futrinka
 futulina
 future
@@ -4892,9 +5090,11 @@ fuzzy-monster
 fuzzy_file_finder
 fuzzyfinder_textmate
 fuzzylogic
+fuzzywysi
 fwb-cmds
 fwf
 fwife
+fx2lib
 fxrules
 fzip
 g-gem
@@ -4902,6 +5102,8 @@ g2t
 g_suggest
 ga
 gabbleduck
+gacetaparser
+gadget-about-nothing
 gadget-server
 gadu-api
 gae
@@ -4921,6 +5123,7 @@ galerie
 gallery
 gallery2-app
 gallery_scroller
+gambit-cairo
 gambler
 gambletrack
 game
@@ -4949,6 +5152,7 @@ gapps-email-migration
 gappsites
 gar_quicklook
 garbas.watermark
+garbled
 gareports_reader
 gariffria
 garlic
@@ -5008,15 +5212,18 @@ geditpycompletion
 geekcode
 geekeerie-blog
 geekmap
+geektool-3
 geezmo-core
 gels
 gem-builder
 gem-freezer
+gem2deb
 gem_console
 gem_leaves
 gem_sync
 gem_tools
 gem_tools-gem
+gembrowser
 gemdocindex
 gemhub
 geminstaller_problem
@@ -5075,8 +5282,11 @@ geomerative
 geonames
 geoping
 georgia-air-quality-java-toolset
+georuby-extras
 georuby_c
+geotool
 geovex
+geox
 gerbilcount
 gerbx
 german-translation-for-frog
@@ -5092,6 +5302,7 @@ getna
 getopt-lucid
 getrbart
 getsite
+gettext
 gettext-wysiwyg
 gettext2db
 gettext_localize
@@ -5132,6 +5343,7 @@ gilligan
 gimmeallyourlovin
 gimmeh_fixtures
 ginger
+gipper
 giraffe
 girls
 gist
@@ -5142,6 +5354,7 @@ gist-vim
 gist.el
 gisting
 gistr
+gisty
 git
 git-a-rails-project
 git-age
@@ -5150,6 +5363,7 @@ git-blog
 git-bz
 git-bzr
 git-cap-tasks
+git-case
 git-cc
 git-central
 git-cl
@@ -5159,6 +5373,7 @@ git-cont
 git-control
 git-demo
 git-dep
+git-deploy
 git-doc-ja
 git-emacs
 git-export
@@ -5173,11 +5388,13 @@ git-ls
 git-map
 git-me-up
 git-o-mator
+git-overlook
 git-pair
 git-playground
 git-presentation
 git-prompt
 git-pureperl
+git-python
 git-railed
 git-rails-plugins
 git-rake
@@ -5242,6 +5459,7 @@ gitchart
 gitctl
 gitdoctest
 giternal
+gitextensions
 gitexttest
 gitfun
 gitg
@@ -5270,6 +5488,7 @@ github-tagger
 github-test
 github-testing
 github-tmbundle
+github-trac
 github-vim
 github_activity_stack_widget
 github_beacon
@@ -5278,6 +5497,7 @@ github_editor_theme
 github_hook
 github_hook_server
 github_post_receive_server
+github_sync
 github_tests
 github_textmate_theme
 github_vim_theme
@@ -5287,6 +5507,7 @@ githubtest
 gitidea
 gitit
 gitjour
+gitlearn
 gitmagic
 gitmask
 gitmergeexample
@@ -5296,6 +5517,7 @@ gitosis
 gitosis.vim
 gitrack
 gitrails
+gitrest
 gitsandbox
 gitscm
 gitscm-old
@@ -5303,6 +5525,8 @@ gitserve
 gitsharp
 gitsum
 gittest
+gittest5
+gittestfinal
 gittle
 gittools
 gittutorial
@@ -5322,8 +5546,10 @@ gl.web
 glade-sharp-code-generator
 glapp
 glart-final
+glassfish-maven-plugin
 glassvault
 glastree
+glimmer
 globalite
 globalite-example
 globalize
@@ -5340,6 +5566,7 @@ glu-php
 gluttonberg
 glycosylation
 glyph-number-marks
+glyphinput
 glz_custom_fields
 gm-pootle-search
 gm_apps
@@ -5347,6 +5574,7 @@ gm_scripts
 gm_scripts_fx3
 gm_utils
 gma-utils
+gmail-auto-bcc
 gmail-notifr
 gmail-notify
 gmailboomerang
@@ -5373,9 +5601,13 @@ gnome-deskbar-plugin--pidgin-buddy-list
 gnome-overlay
 gnome-settings-daemon
 gnome_random_wp
+gnu-qif
 gnubook
+gnuplot
+gnuplot-context
 gnuplot-current
 gnuplot-textmate-bundle
+gnuradio-802.15.4-demodulation
 gnutch
 go-mode
 goaloc
@@ -5405,12 +5637,14 @@ gonzobahn
 gonzoreader
 goo
 good_form
+goodmjtestproject
 google-ajax-translation
 google-analytics-helper
 google-app-cluetrain
 google-app-engine
 google-app-engine-weekend-projects
 google-appengine-chunker
+google-appengine-django
 google-checkout
 google-code-prettify
 google-gears-mechanizations
@@ -5432,6 +5666,7 @@ google_services
 google_vizualisation
 googleajax
 googlecharts
+googledata
 googlepagerank
 googlereader
 googtaculous
@@ -5464,6 +5699,7 @@ gps-tools
 gps_fu
 gpsphone
 gpspoint2kml
+gpycomplete
 graal-gonstruct
 grabnix
 grace
@@ -5492,10 +5728,12 @@ grammar
 grammer
 gramosplit
 grape-endorsed
+graph-experiment
 graph-tool
 graph_layout_viewer
 graphic-calculator
 graphic_surf
+graphics-drawingcombinators
 graphicterm
 graphinit.perl
 graphmod
@@ -5511,6 +5749,7 @@ grassland
 grasuby
 graticule
 gravatarutil
+graveyard
 gravity
 gravtastic
 gravy
@@ -5527,9 +5766,11 @@ greed
 greg-sudoku-solver
 gregwebs-project-helpers
 grep-fu
+grepmate
 gretel
 greybox_on_rails
 greybox_rails
+grfsegsbg
 grid_nav
 gridfield
 gridsweeper
@@ -5547,6 +5788,7 @@ grok-ansi-color-codes
 grokit
 groovy
 groovy-measures
+groovy-samples
 groovyawards
 groovyjava
 groovypresentations
@@ -5729,6 +5971,7 @@ hard-versus-soft
 hardcore-google-analytics-for-redmine
 hardinfo
 hardlinkpy
+hardwood
 harlan-sandbox
 harmoni
 harmoniouscode
@@ -5800,6 +6043,7 @@ haskell-perl5parser
 haskell-stats
 haskell-taglib
 haskell-tmbundle
+haskell-tsp
 haskell-zipper
 hasmygembuiltyet
 hatebu-tag
@@ -5835,6 +6079,7 @@ heb_ruby
 hecatae
 heckle
 heel
+heighway_dragon
 heiloo-rocks
 heimatmac
 heisr
@@ -5874,18 +6119,22 @@ helpful_validations
 helveticized
 hemligheten
 hemlock
+hen
 hengband-lua
 henley-enquiry-system
 henrosoftbrickles
+henta
 herd
 heresy
 hermes1d
 hermes_old
+herml
 heroes-of-code-and-logic
 heroku-client
 heroshi
 herostory
 herrnhuter-losung
+herut
 hestia
 heuristicschallenge
 hexagonit-swfheader
@@ -5904,6 +6153,7 @@ hideguides
 hideki
 hidemail
 hie
+hierarchical_objects
 high-dimensional-explorer
 higher-expectations
 highgroove-scout-plugins
@@ -5927,6 +6177,7 @@ hitcounter
 hitimes
 hive
 hivemind
+hiveminder
 hjlee
 hjlee-emacs-init
 hl
@@ -5959,6 +6210,7 @@ holler
 holly
 holy-grail-forms
 home
+homebrew-playground
 homeconfigs
 homedir
 homemarks
@@ -5999,6 +6251,7 @@ hotwire
 houghandco
 hours
 house
+house2
 hoverpick
 howcast-gem
 howmuchlonger
@@ -6033,6 +6286,7 @@ html-tmbundle
 html-widget-plugin-debug-pluginhelp
 html2pdf
 html2textile
+html5-slides
 html5.tmbundle
 html5jp_graphs
 html_helpers
@@ -6083,6 +6337,7 @@ hurdwiki
 hurl
 hurricane
 hush_cms
+husky
 hvzengine
 hxamqp
 hxas3corelib
@@ -6124,6 +6379,7 @@ i_want_to_hold_your_mail
 ia-0809
 iamdanrubin
 ianki
+ianscurrie
 iauthu
 ib3client
 ibake
@@ -6144,10 +6400,16 @@ ibus-m17n
 ibus-pinyin
 ibus-pinyin-data
 ibus-table
+ibus-table-cangjie
+ibus-table-erbi
+ibus-table-extraphrase
+ibus-table-wubi
+ibus-table-zhengma
 ibus-tmpl
 icagent
 ical-agenda
 ical-sparql
+ical2rem.rb
 icalendar
 icalendar_templates
 icalextractor
@@ -6158,6 +6420,7 @@ icfp04-practice
 icfp08
 icfpcode
 ichm
+icici-direct-crawler
 icis
 ick
 iclassify
@@ -6178,6 +6441,7 @@ idea-ftw
 idea-test
 ideabucket
 idealformvalidator
+ideas2ideas
 ideasrus
 ideation
 ideerfs
@@ -6208,6 +6472,7 @@ ignite
 ignore_nil
 igotgit
 iguestimate
+ihercules
 ii
 ijython
 ikiwiki
@@ -6261,6 +6526,7 @@ immutable-attribute-plugin
 imona-zuzu
 imotion
 import_with_load_data_in_file
+importscour
 impostor
 improved_mysql_schema_dumper
 imprudence
@@ -6275,6 +6541,7 @@ inaccessible_attributes
 inceku
 incentivo
 incigest
+incite
 include_by_default
 include_for
 include_google_js
@@ -6315,6 +6582,7 @@ initrb
 injected_rb
 injour
 inlinkads-rails-plugin
+inm-lab-face-descriptors
 innate
 innatointeligencia
 innovative
@@ -6329,6 +6597,7 @@ input_css
 inputclear
 inputs_with_class
 inputswitcher
+inq1linux
 inquisitor
 insaan
 insert-time.el
@@ -6369,6 +6638,7 @@ intersys
 interval
 into-the-light
 intranet
+intranet-desafius
 intro-to-ruby-web-frameworks-talk
 invenscience
 inventory
@@ -6380,6 +6650,7 @@ io
 io-cinvoke
 io-collocation
 io-interactive
+io-projekt
 io-reactive
 io-snippets
 iobuffer
@@ -6388,6 +6659,7 @@ iontv
 iota
 iou
 iowa
+iowa-gives
 iowadot-twitter
 iowiki
 ip
@@ -6407,6 +6679,7 @@ iphone-bezierdemo
 iphone-celshader
 iphone-dev-libraries
 iphone-libs
+iphone-rdoc-template
 iphone-samples
 iphone-scripts
 iphone-weather
@@ -6418,6 +6691,7 @@ iphone_dj
 iphone_student_planner
 iphone_ui_fireworks
 iphonelinux
+iphonelinux-kernel
 iphoneruby
 iphonesdkdev
 iphonetest
@@ -6472,6 +6746,7 @@ isaak
 isandy
 isbn.rb
 isbn_validation
+isdgl
 iseeq3
 iseng
 iserve
@@ -6483,6 +6758,8 @@ iso-3166-country-select
 iso_countries
 iso_country_codes
 isochrones
+isotestair
+isotestjava
 isoutil
 ispfailover
 issuetracker
@@ -6505,6 +6782,7 @@ itoshigehito
 itp
 itscold
 itsy
+itty-bitty-rpg
 ittyflow
 itunes-web-interface
 itunes_link_maker
@@ -6559,6 +6837,7 @@ jamplus
 janus-formalization
 japocket
 jar-decompiler
+jasmine
 jasper
 jaspers
 jasperserver-client
@@ -6611,6 +6890,7 @@ javascripts
 javautil
 javawebstarttest
 jaxo
+jayarepo
 jazzrecord
 jbb_test_proj
 jbind
@@ -6640,6 +6920,7 @@ jeff4good
 jekyll
 jello
 jellyroll
+jennstudio
 jerbil
 jerkstore
 jes5199-empty
@@ -6665,6 +6946,7 @@ jibberish
 jibi
 jibot
 jiffy-ruby
+jig
 jipe
 jist
 jitblt
@@ -6673,6 +6955,7 @@ jitsu-framework-gem
 jivepages
 jivepages-sample-app
 jj
+jj7gn2b
 jjin865
 jkramer-vim-narrow
 jlilly_emacs
@@ -6684,6 +6967,7 @@ jmf
 jmx-grails-plugin
 jmx-js
 jmxfetch
+jnitest
 job_hunting
 jobberrails
 jobby
@@ -6713,6 +6997,7 @@ jouper
 journeta
 joyent_deployment
 jp-holiday
+jpericia_blog
 jplanner
 jplus
 jpmobile
@@ -6720,9 +7005,11 @@ jpmobile_with_crawler
 jpotatoe
 jps
 jptemplate
+jpwsafe
 jq-conf08
 jqross
 jquery
+jquery-abbreviator
 jquery-ajax-form-plugin
 jquery-ajax-queue
 jquery-always
@@ -6745,6 +7032,7 @@ jquery-easter-eggs
 jquery-ev
 jquery-fadegallery
 jquery-fieldselection
+jquery-fixedfollower
 jquery-for-greasemonkey
 jquery-getfeed
 jquery-getscrollbarwidth
@@ -6769,6 +7057,7 @@ jquery-microformats
 jquery-mousewheel
 jquery-outerhtml
 jquery-overlabel
+jquery-pagestate
 jquery-patterns
 jquery-plugins
 jquery-profile
@@ -6800,6 +7089,7 @@ jquery.jsonrpc
 jquery.labelify
 jquery.minesweeper
 jquery.pageless
+jquery.panelmenu-plugin
 jquery.plugins
 jquery.safemail
 jquery.schmarkitup.js
@@ -6812,11 +7102,13 @@ jquery_example
 jquery_extensions
 jquery_filestyle
 jquery_form
+jquery_grid_for_rails
 jquery_jeditable
 jquery_jeditable_markitup
 jquery_jeditable_wysiwyg
 jquery_lazyload
 jquery_object
+jquery_optimization
 jquery_plugins
 jquery_rails_slideshow
 jquery_resource
@@ -6831,6 +7123,7 @@ jquerycommandline
 jqunit
 jrails
 jrails_in_place_editing
+jreversepro
 jrsplenda
 jruby-dsl-example
 jruby-fit
@@ -6838,6 +7131,7 @@ jruby-lucene
 jruby-rack
 jruby-redcloth
 js
+js-beautify
 js-chromeless-mp3-player
 js-docstrings
 js-memoize
@@ -6889,6 +7183,7 @@ json_proxy
 json_pure-1.1.3-patches
 json_services
 json_xml_parser
+jsoncrossdomainrequest
 jsondumper
 jsonflatselect
 jsonkit
@@ -6899,6 +7194,7 @@ jsonxx
 jsparsing
 jspy
 jsqueak
+jsr311-samples
 jss
 jssocket
 jsspec
@@ -6912,6 +7208,7 @@ jtemplate
 jtestr
 jtestr-example
 jtip2
+jtoolbar
 judder
 judge
 judge-not
@@ -6968,6 +7265,7 @@ jwz_threading
 jyaddm
 jython
 jzigbeercp
+k
 k7
 k_clustering_algorithm
 kablame
@@ -7051,6 +7349,7 @@ kievbass
 killapple-iphone
 killerapp
 kindle-scripts
+king_tokens
 kiokudb
 kiokudb-backend-aws-sdb
 kiokudb-navigator
@@ -7072,8 +7371,10 @@ klug-source-repo
 kmenno.org
 kmymoney2
 knave-tumblelog
+knights_tour
 knime-chemspider
 knock
+knock-knock
 knocked
 knol
 knopaste.old
@@ -7081,8 +7382,10 @@ knot
 knowit_0.11
 kntoos
 knut
+koala-control
 koan
 kog
+kohaml
 kohana-module--assets
 kohana-module--clientcide
 kohana-module--erd
@@ -7111,6 +7414,7 @@ kotosprict
 kowloon
 kpr-everywhere
 kpwdmanagement
+kragen-.emacs.d
 kragne
 krai
 krails
@@ -7118,6 +7422,7 @@ kramdown
 kraxnet_web
 krc
 krjs
+kroc_scons
 krypteau
 kshdb
 ksiegowa
@@ -7224,6 +7529,7 @@ lazy_developer
 lazydoc
 lazyeval
 lazyload
+lazyscripts
 lb_repos
 lbe
 lbox
@@ -7242,11 +7548,14 @@ le-git
 le-test-
 leafm
 leafman
+lean-php
 leanunit-actionscript2
 learn-github
 learn-sc
+learn_git
 learnback
 learnfaces
+learnhaskell
 learning
 learning-app
 learning-bittorrent
@@ -7280,6 +7589,7 @@ legacy_path_handler
 lego_bulldozer
 legs
 lemarsu_crux_repo
+lemon-twist
 lemur
 lenary-stats
 leniuch
@@ -7352,6 +7662,7 @@ libomvtk
 libomxil-bellagio
 libomxil-g
 libopenmetaverse
+libopensmskummeeplugin
 libparseurl
 libpurple-mini
 libra
@@ -7365,6 +7676,7 @@ libtgb1990
 libthwap
 libtorrent
 libwebta
+libxml-ext
 libxml-ruby
 libxml-tools
 libxml_rails
@@ -7376,6 +7688,7 @@ lids
 lifandi_demo1
 life
 life-fitness-grapher
+life-language
 life-maps
 lifeflow
 lifehs
@@ -7387,6 +7700,7 @@ lift
 lift-samples
 lift-unittests
 liftbook
+liftbook-samplecode
 liftropy
 ligafut
 light_assassin
@@ -7470,7 +7784,9 @@ liquid.js
 liquid4j
 liquid_db_views
 liquidware_projects
+lir
 lisp-matrix
+lisp-unit-with-fixture
 lisp-utils
 lisp.tmbundle
 lisp3d
@@ -7504,11 +7820,13 @@ live-goals
 live-search
 live-validations
 live_contacts
+livedev
 livejournal_tasks
 livemidi
 livepipe-ui
 livepipe.net-documentation
 livequery
+livesaver
 livevalidation
 lizworkspace
 lizzy
@@ -7518,6 +7836,7 @@ ll
 llack
 llonsen2008_ruby
 llvmruby
+lm-examples
 lm-transport
 lmgtfy
 lmhoneycombview
@@ -7525,6 +7844,7 @@ lmmblog
 lms
 lnotes
 load-sugar-leads
+loadable_from_lookups
 loadgenerator
 loadstone
 lobbyists
@@ -7558,12 +7878,14 @@ locbot
 lockcrypt-firefox
 lockdown
 locomotive
+locos-x-rails-conference
 locutus
 log-log4perl-appender-screencoloredlevels-usingmycolors
 log-monitor
 log4r
 log_log_log
 log_trace
+logblock
 logbook
 logbot
 logbot-www
@@ -7584,10 +7906,12 @@ logread--
 logrotate_filename
 logsim
 logviewer
+loki
 lokii
 lol
 lol-u-all-suk
 lolcodr
+lomo
 lonely-planet-for-rails
 lonely_planet
 lonestar
@@ -7633,6 +7957,7 @@ lt.js
 ltorrent
 ltt
 lu_project
+lua-alchemy
 lua-bz2
 lua-cairo-cocoa
 lua-discount
@@ -7659,6 +7984,7 @@ luciferase
 lucille
 lucky-draw
 lucky7
+lucy
 ludicrous
 ludy
 ludy-crypt
@@ -7679,7 +8005,9 @@ lvcontrols
 lvhd-test
 lvvlib
 lwdg_rails
+lwp-useragent-withcache
 lyra
+lyricist
 m-converter
 m2odic
 m3ugen
@@ -7688,6 +8016,7 @@ m4dbi
 ma.gnolia-bookmarks-synchronizer
 maatkit
 mab
+mabinogi-calc
 mac-dev-environment
 mac-dict-ro
 mac-osversion
@@ -7712,6 +8041,7 @@ mack_blog_demo
 macker-s-guide
 maclab
 macosx-alias
+macournoyer.com
 macports-kde4
 macports-repos-hnw
 macruby
@@ -7753,6 +8083,7 @@ mail_fetcher
 mail_gorilla
 mail_to_mbox
 mailadmin
+mailchimp_fu
 mailer_callbacks
 mailfactory
 mailfile
@@ -7761,9 +8092,11 @@ mailnotifier
 mailplane-hide-gmail-ads-css
 main
 main_project
+maintenance_mode
 maintenance_server
 maitre-d
 make-gdc-apple
+make-icicidirect-better
 make_abstract
 make_conf
 make_links_better
@@ -7830,12 +8163,14 @@ marionette-greenfield
 markaby
 markapdf
 markaya
+markdown
 markdown-mode
 markdown.net
 markdown.sugar
 markdown_editor
 markdown_fu
 markdown_j
+markdown_on_rails
 markdownj
 marked-pretty
 markov
@@ -7843,6 +8178,7 @@ markuppatterns
 markus_scripts
 marley
 marque
+marquee-pong
 mars
 marshal_db
 marshaled_attributes
@@ -7872,13 +8208,18 @@ math-libs
 math636-soc-project
 math_example
 mathdrill
+mathematica-tmbundle
+mathematica_cuda
 mathfact
+mathstats
 matlab-plot-tools
 matlab-proj
 matlab-tmbundle
 matlabfp
 matlabgraffle
 mator
+matplotlib
+matplotlib-ancient
 matricula
 matrix-jquery-tools
 matrixoperations
@@ -7896,13 +8237,16 @@ maven-jython-plugin
 maven-lift
 maven-scm
 maverick
+max_mind
 maxframe.el
 maxlib
 maxmsplib
 maxxc
 maybelater
 mayfly
+mazeserv
 mbmmcamag
+mbot
 mbrfs
 mbws
 mc
@@ -7919,6 +8263,7 @@ mdcave
 mdi_inventory
 mdk-code-snippets
 mdls
+mdm
 mdoc
 mdp_calendar
 me-money
@@ -7938,6 +8283,7 @@ median
 mediaplayer
 mediaplug-ruby
 mediateca
+mediawiki-digg-extension
 medicalook
 medick2
 medium
@@ -7982,6 +8328,7 @@ memorylogic
 men2k
 menki
 menthe
+menu_components
 menu_helper
 menuer
 menush
@@ -8012,7 +8359,9 @@ mephisto_sitemap
 mephisto_tinymce
 mephisto_xmlrpc
 mephisto_xmlrpc_edge
+merapijava
 merb
+merb-actionview
 merb-ar-stack
 merb-auth
 merb-auth-slice-activation
@@ -8021,6 +8370,7 @@ merb-authz
 merb-autoscaffold
 merb-blog-crud
 merb-book
+merb-book-jp
 merb-bundling-demo
 merb-cache
 merb-cache_simple_setup
@@ -8057,6 +8407,7 @@ merb-playground
 merb-plugins
 merb-sample-app-on-passenger
 merb-sequel-is_taggable
+merb-sequel-stack
 merb-service-example
 merb-simple
 merb-simple-forms
@@ -8085,6 +8436,7 @@ merb_dm_xss_terminate
 merb_doorman
 merb_exceptions
 merb_facebooker
+merb_git_wiki
 merb_global
 merb_has_flash
 merb_has_rails_plugins
@@ -8110,17 +8462,20 @@ merb_stathyc_slice
 merb_static
 merb_strokedb
 merb_training_site
+merb_usercss
 merb_xmpp
 merb_ym4r_gm
 merbbit
 merbcamp2008_presentation
 merbday
+merbday-couchdb-demo
 merbful_authentication
 merbguestbook
 merbicide
 merbist
 merbivore
 merbivore-blog
+merblog
 merblogger
 merbthor
 merbums
@@ -8135,6 +8490,7 @@ meshu
 message_block
 message_div_helpers
 messagemap
+messnager
 meta-rails
 meta-tags
 meta-texasinstruments
@@ -8165,6 +8521,7 @@ methargock
 method-signatures
 method_cache
 method_lister
+method_ni
 method_trails
 methodical
 metlak
@@ -8174,11 +8531,13 @@ metrics
 metro
 metron
 metronomic
+mets-webservice
 mett_media_producer
 metvuw-rain
 meven
 mevo
 mex
+mfrails
 mfui
 mfwm
 mg-todo
@@ -8189,10 +8548,13 @@ miasma
 miau
 mib2opennms
 michael-barton-thesis
+michael-barton-thesis-figures
 mico
+micolog-cxu
 micro
 micro-mack
 micro_ga
+microcalc
 microcom
 microcontainer
 microformats_helper
@@ -8241,6 +8603,7 @@ minara
 minara-scheme
 minbar-applet
 mind-apples
+mindof
 minds_eye
 minds_eye_forest
 mindstorm
@@ -8274,6 +8637,7 @@ minimal-production-system
 minimalenium
 minimilter
 minimize
+minimuni
 mininode
 minion
 minitest
@@ -8286,8 +8650,10 @@ mipper
 mippersite
 mipspy
 mirasky
+miri
 mirror-quartz-jruby-plugin
 mirrormeta
+mirrr
 mirthcasts
 misc
 misc-scripts
@@ -8324,6 +8690,7 @@ mmsc_manager
 mnemex
 moba
 mobile
+mobile-energy-use
 mobile-eye-data-extraction
 mobile-fu
 mobile-p2kmoto
@@ -8345,6 +8712,7 @@ mockieminimal.adiummessagestyle
 mocknews
 mockr
 mocksmtpd
+mocktest
 mockz0r
 mod_auth_remote
 mod_authz_unixgroup
@@ -8357,6 +8725,7 @@ mod_ruby
 mod_sql_tds
 mod_tractis_auth
 mod_tweet
+modal
 modal-overlays
 modalbox
 modalbox_confirm
@@ -8415,7 +8784,9 @@ mole
 molecules
 molinos-cms
 mollio
+mon-dvdclub
 monadlib
+mondrian-multidimensional-k-anonymity
 money
 money-buckets
 moneytracker
@@ -8437,6 +8808,7 @@ monitor_control
 monitorme
 monkey-chord
 monkeybrains
+monkeygrease
 monkeyspecdoc
 monkeytest
 monkeyvision
@@ -8448,6 +8820,7 @@ mononet-server
 monorail-aspview-demo
 monotonous
 monstar.rb
+montanacycling
 monteverde
 moo-growing-input
 moo-test
@@ -8464,6 +8837,7 @@ moose-set
 moosex-iterator
 moosex-makeimmutable
 moosex-scaffold
+moosified-form--processor
 mooslides
 mootilities
 mootime
@@ -8489,6 +8863,7 @@ mor9-refactoring-to-patterns
 morena_opensource
 moriarty-palm
 moriarty-sm
+moritz
 morph
 morse
 mort
@@ -8545,6 +8920,7 @@ mpd-weighted-playlist
 mpd.rb
 mpdas
 mpi-ruby
+mpris-remote
 mpristester
 mqs
 mrp
@@ -8565,6 +8941,7 @@ msn-pecan
 mspec
 mspec-jflam
 mspire
+mssql-client-gui
 mtag
 mtb-calendar-widget
 mtdweb
@@ -8578,11 +8955,13 @@ mubs
 muddle
 mugshots
 mui
+multi-database-migrations
 multi-level-vcards
 multi-rbackup
 multi_app_routing
 multi_currency
 multi_db
+multi_dbs
 multi_field_group_by
 multi_rails
 multi_smtp
@@ -8599,10 +8978,12 @@ multiplesunburst
 multiplyqualitative
 multiresponse
 multisniff
+multisync-gui
 multitest
 mun
 munch
 munches
+mundo-pepino
 munger
 munin
 munin-graphite
@@ -8694,6 +9075,7 @@ my_snippets
 my_styles
 my_way
 myapp
+myardu
 mybin
 myblog
 mycast
@@ -8709,6 +9091,7 @@ mydocuments
 myemacsfiles
 myfirst
 myfirstapple
+myfirstgit
 myflickr
 myformbuilder
 myforum
@@ -8762,6 +9145,7 @@ mysql-server
 mysql-udf-samples
 mysql.php
 mysql2gnuplot
+mysql2postgres
 mysql_bigint_ids
 mysql_foreign_keys
 mysql_requirement
@@ -8785,6 +9169,7 @@ mywea
 myweblog
 mywork
 myzonefiles
+n-portal
 nabilrahman.tk
 nagaram
 nagare
@@ -8795,6 +9180,7 @@ nagios_plugins
 nagiostools
 nagoro
 nall
+nally
 nama
 name-and-logo-footer-tsapp
 name-and-logo-header-tsapp
@@ -8857,12 +9243,14 @@ neerajs-home
 negative
 negative-captcha
 negative-keywords
+negative_named_scope
 nehsics
 nejug
 neko-fastcgi
 neko_mimi_fuxx
 nekro
 neo4j
+neo4j-clojure
 neo4j.rb
 neoneo
 neonv2
@@ -8886,6 +9274,7 @@ net-amazon-s3-bulk
 net-arping
 net-denon-gem
 net-flickr
+net-google-picasaweb
 net-irc
 net-lastfm
 net-mac-vendor
@@ -8937,6 +9326,7 @@ newextension
 newgem
 newjoy
 newjs
+newrelic_rpm
 newrepository
 news-sniffer
 newsfeeds
@@ -8950,6 +9340,7 @@ newtonia
 newx
 newzbin
 nex3-s-blog-engine
+nextbus-trip
 nextmeeting
 nexttest
 nextvista
@@ -9068,6 +9459,7 @@ notes
 notes-djapp-tutorial
 notices-collector
 notification-center
+notify-webhook
 notifyme
 notifyr
 notso-app
@@ -9077,6 +9469,7 @@ novelang
 november
 novofixo
 novprog
+noya
 nozbe-ruby
 nozber
 np_nifalcon
@@ -9108,6 +9501,7 @@ nucleaser
 nucleus
 nudist
 nufound
+nuggets
 nugraphdraw
 nul
 nullable_booleans
@@ -9123,6 +9517,7 @@ numscons
 nunja
 nusax
 nuspec.tmbundle
+nutch
 nutitlecase
 nuzip
 nv2
@@ -9145,6 +9540,7 @@ nyumba
 o-radar
 o2
 o3-layered-window
+oUF_Fleetfoot
 oUF_Grid
 oad
 oak-leaf
@@ -9163,6 +9559,7 @@ obexfs
 obexftp
 objc3d
 object-mapper
+object2module
 object_daddy
 object_protocol
 objectdiff
@@ -9232,6 +9629,7 @@ old-cpp
 old-emacs
 old-git4idea
 old-swift
+old_dramasoc
 old_nuniverse
 old_repo
 old_school
@@ -9255,6 +9653,7 @@ omnetpp_study-
 omniorb
 omniture
 omsb
+on2ruby
 on_irc
 once-true
 onda
@@ -9350,6 +9749,7 @@ openobex
 openorbit
 openpoker
 openradar
+openrct
 openrender
 openri
 openschema
@@ -9407,6 +9807,7 @@ ordered_set
 ordinal-accessors-for-an-array-object
 oregano
 orelog-vim
+oreore-repl.pm
 org
 org-info-js
 org-plot
@@ -9423,16 +9824,19 @@ orocos-ocl
 orocos-rtt
 orphanage
 orphanage-management-system
+os
 os20
 os2007
 os2008
 os_st
 oscurrency
+osdc
 osdi2
 osdv
 osfa
 osg
 oshirase
+osots
 ostream
 osupdate
 osx-firewall
@@ -9466,6 +9870,7 @@ outfittercompare
 outlook-with-attitude
 output_catcher
 output_compression
+outputz_for_hidemaru
 outsidebar
 overbalance
 overbrain
@@ -9473,7 +9878,9 @@ overhead_door_schedule
 overloaded_methods
 override_rake_task
 overview-maven-plugin
+ovzutils
 owa-growl
+owlsim
 ownpastie
 oxalis
 oxstu
@@ -9490,6 +9897,7 @@ p2js
 p2net
 p2news
 p2p-chat
+p2p-ispell
 p2presenter
 p2presenter-interactivity
 p2presenter-philosophers
@@ -9501,6 +9909,7 @@ p5-chi-driver-memcachedfast
 p5-css-prepare
 p5-devel-dlmprof
 p5-memoize-cached
+p5-request-dispatcher
 p5-shell-amazon-s3
 p5-upcoming
 p5-www-hatenakeyword-group
@@ -9573,6 +9982,7 @@ pando_proxy
 panera
 panini
 panoptibot
+panoramic
 panqa
 paolodona.com
 paperclip
@@ -9631,6 +10041,7 @@ passenger-server
 passenger-turbogears-example
 passengerpane
 passive_record
+password
 password-generator
 password-maker-iphone
 password-vault
@@ -9757,6 +10168,7 @@ perl-list-frontcode
 perl-log-dispatch-atom
 perl-net-openid
 perl-pfacter
+perl-rt-testing
 perl-sapo-broker
 perl-scm
 perl-subatom
@@ -9804,15 +10216,19 @@ petticoat_junction
 pfc
 pfc-doc
 pfetch
+pfh
+pfm
 pftf
 pg-downloader
 pg_ns2trace_analyser
 pg_partitioner
+pgdia
 pgsql
 pgsqlbackup
 ph34rbot
 phaker
 phantom-cms
+phase-1
 phd-smoothing
 pheanstalk
 pheonix
@@ -9820,6 +10236,7 @@ phgraph-for-iphone
 philly.rb
 philosophy
 philosophy-bibliography
+philosophy-dump-parser
 phing-header
 phly
 phly_twitter
@@ -9852,6 +10269,7 @@ photostre.am
 php
 php-abcm-
 php-ajax-calendar
+php-async
 php-base
 php-bloomfilter
 php-click
@@ -9864,6 +10282,7 @@ php-filesharing
 php-fuse
 php-gnupg-ubuntu
 php-hoptoad-notifier
+php-last.fm-api
 php-libmemcached
 php-luxio
 php-mini-magick
@@ -9876,6 +10295,7 @@ php-rails-clone
 php-skype
 php-ssh2
 php-tokyo-dystopia
+php-tracer-weaver
 php-twitter
 php-users.jp
 php-validation-class
@@ -9915,13 +10335,16 @@ physics_analysis
 physicsforprogrammers
 pi-tools
 pi_graph.js
+piano
 pianobar
 pic-assembly-textmate-bundle
 pic-usb
 pic18_firmware
+picket_deadend
 pickle
 pickler
 pickles-on-rails
+picklespears
 picky-color
 picky_color
 picman
@@ -9954,6 +10377,7 @@ piggybank
 pike
 piki
 pikl
+pilatus
 pill-applet
 pim
 pimp-my-tool
@@ -9981,6 +10405,8 @@ piston
 piston_sandbox
 pitchin
 pitivi
+pivotal-tracker
+pivotal-tracker-email-integration
 piwik
 pixel-wars
 pixidou
@@ -10118,6 +10544,7 @@ plexremote
 plight
 plist-to-json
 plists
+plls
 plmexplorer
 plnet
 plotkit-patches
@@ -10168,6 +10595,7 @@ poe_browning
 poem-generator
 poetry_flip
 poignant-br
+pointfreeexprsimplication
 pointything
 poirpwsc101-1i-ruby-programming-with-shoes-course
 poisson
@@ -10192,6 +10620,7 @@ polymorphic_includes
 polyphony
 pomni
 pomodo_on_rails
+pong
 pony
 ponyexpress
 pool
@@ -10271,6 +10700,7 @@ prank
 prawn
 prawn-gallery
 prawnto
+prazer--ruby
 prcc
 preallowed
 preallowed-2
@@ -10336,10 +10766,12 @@ process
 processing
 processing-js
 processing-tower-defense
+processing_playground
 processingdemo
 processingexperiments
 procfs
 procsstechniques
+profashion
 profile
 profile.sh
 profile_validator
@@ -10385,8 +10817,10 @@ projectplus
 projects
 projectsuspend
 projectwiki
+projekt-oszbd
 projeto
 projetoteste
+projeul
 prolog-tmbundle
 prolog.vim
 prometeus
@@ -10416,6 +10850,7 @@ prototype-asp
 prototype-facebox
 prototype-fruits
 prototype-graphic
+prototype-hover-accordion
 prototype-objects
 prototype-playground
 prototype-portal
@@ -10456,6 +10891,8 @@ psi_ru
 psid
 psil
 psionrl
+psmr
+psmtabbarcontrol
 pso
 pspusbcamtest
 pstool
@@ -10486,6 +10923,7 @@ puny_mce
 puppet
 puppet-acpid
 puppet-apache2
+puppet-apache_c2c
 puppet-arch
 puppet-autofs
 puppet-bind
@@ -10494,6 +10932,7 @@ puppet-collectd-tmp
 puppet-common
 puppet-daemontools
 puppet-djbdns
+puppet-iptables
 puppet-java
 puppet-jetty
 puppet-mercurial
@@ -10507,6 +10946,7 @@ puppet-nagios
 puppet-ntp
 puppet-old
 puppet-openldap
+puppet-postfix
 puppet-postgres
 puppet-puppet
 puppet-rails
@@ -10593,10 +11033,12 @@ pyfix
 pyflakes
 pyflakes-vim
 pyflam3ng
+pyflow
 pyfmripper
 pyfocus
 pyfuncs
 pygadu
+pygglib
 pygmail
 pygmalion
 pygments-sass-lexer
@@ -10615,6 +11057,7 @@ pyjabberbots
 pyjsdoc
 pykannel
 pykol
+pykrylov
 pylas
 pylcd
 pymail
@@ -10623,6 +11066,7 @@ pymanymouse
 pymbw
 pymmseg-cpp
 pympd
+pymtp-nkb
 pymuddy
 pynewspaper
 pyobjc
@@ -10636,11 +11080,13 @@ pyquickpay
 pyradio
 pyriffplayer
 pyrobots
+pyrotalk
 pyrss2twitter
 pysign
 pysmell
 pysnes9x
 pysolr
+pysql
 pysword
 pyte
 pytesttool
@@ -10684,6 +11130,7 @@ python-scripts
 python-scrubber
 python-simple-blog
 python-simplestar
+python-slim
 python-textile
 python-twitter
 python-vim-settings
@@ -10703,6 +11150,8 @@ pywebkitgtk
 pywebmvc
 pyworlds
 pywrr
+pyxplotgui
+pyynikki
 pyz
 pyzebra
 q-user-interface
@@ -10733,12 +11182,14 @@ qrcode-rails
 qs_rubycocoa
 qsc
 qscriptprofiler
+qsearch-erl
 qsmile
 qsmp
 qsrubymodule
 qt-icq-transport
 qt-plugins
 qt-residential-segregation
+qtablet
 qtile
 qtjruby-core
 qtjruby-dsl
@@ -10771,6 +11222,7 @@ query_trace
 queryblog
 queryset
 quester
+question_plugin
 questionnaire_engine
 questions
 queue
@@ -10781,6 +11233,7 @@ queue_entry
 queueing-playground
 quick
 quick_menu
+quickadmin
 quickanddirtygriddrawer
 quickbooks
 quickbooks_integration_plugin
@@ -10811,10 +11264,12 @@ qwertest
 qwit
 qwo-debian
 qyotodevelop
+qype
 qz7
 r-3
 r-commerce
 r-yaml
+r287112
 r2flickr
 r4tw
 r_c-2.1.1
@@ -10836,7 +11291,9 @@ rack-config
 rack-javascript-minifier
 rack-jpmobile
 rack-mirror
+rack-roll
 rack_base_uri
+rackdapter
 rackup_examples
 rad
 rad_cloth
@@ -10883,6 +11340,7 @@ radiant-file-system-extension
 radiant-file-system-mirror-extension
 radiant-file_based_layout-extension
 radiant-first-reorder-extension
+radiant-flash_content-extension
 radiant-fragment-cacher
 radiant-gallery
 radiant-globalize-extension
@@ -10917,6 +11375,7 @@ radiant-multi-site-extension
 radiant-multi-site-hacks-extension
 radiant-navigation_tags-extension
 radiant-nested-layouts-extension
+radiant-news-extension
 radiant-not-so-simple-password-extension
 radiant-page-attachments-extension
 radiant-page-attributes
@@ -10943,6 +11402,7 @@ radiant-rss-feed-extension
 radiant-rss-reader
 radiant-scheduler-extension
 radiant-search-extension
+radiant-search_multi_site-extension
 radiant-sectionalize-extension
 radiant-seo_help-extension
 radiant-settings
@@ -10965,6 +11425,7 @@ radiant-summarize-extension
 radiant-super-export-extension
 radiant-tags-extension
 radiant-tags-too-extension
+radiant-tags_multi_site-extension
 radiant-templates-extension
 radiant-textile-auto-fragment-ids-extension
 radiant-textile_editor-extension
@@ -11010,6 +11471,8 @@ railify
 railmail2
 railroad
 rails
+rails-2.2-blog-demo
+rails-2.2.2-app
 rails-ad-server
 rails-base
 rails-boilerplate-script
@@ -11054,10 +11517,12 @@ rails-swfupload
 rails-swfupload-fork
 rails-switchable-content
 rails-template
+rails-templates
 rails-test-serving
 rails-tips
 rails-users.jp
 rails-widgets
+rails-zshrc
 rails.sugar
 rails21-book
 rails21-book-br
@@ -11179,6 +11644,7 @@ random-key
 random-stuff
 random_collage
 random_items
+random_maps
 random_text
 randomaze
 randomscripts
@@ -11212,6 +11678,7 @@ rate
 rateme
 ratom
 ratonesytortillas
+ratpack
 rattl
 raw32
 rawdod
@@ -11231,6 +11698,7 @@ rb232
 rb_quicksort
 rbartman
 rbbr
+rbbs
 rbcoremidi
 rbcurse
 rbdb
@@ -11267,6 +11735,7 @@ rchardet
 rcirc-notify-el
 rclg
 rcommissar
+rcontract
 rcopy
 rcov
 rcov_notifier
@@ -11305,6 +11774,7 @@ ready-lisp
 realex
 realfriends
 really-simple-color-picker
+realtimebattle.rb
 reapy
 rearshelf
 reasonablysmartpdc
@@ -11371,6 +11841,7 @@ redmine_simple_api
 redmine_tab
 redmine_ticket_emailer
 redmine_tt
+redminex
 redpoint
 redracer
 redshell
@@ -11392,16 +11863,20 @@ refe2-vim
 refer_madness
 reference
 reference_tracking
+referencelink
 referenz1
 refinery
+reflectionfield
 reformed
 refractr
 refresh-canvas
+reftral
 reg-exp-urls
 regex-tool
 regex.sugar
 regexkit
 regexpcommon
+regexpert
 regexpllvm
 reggie
 region
@@ -11432,6 +11907,7 @@ remarkable
 remember
 remember-the-ruby
 remindblast
+reminder-bot
 remit
 remote-testing
 remote_feature
@@ -11466,10 +11942,13 @@ repo2submodule
 repo_test
 repoprueba
 report-hack-isp
+report_this
+reportit
 reports_as_sparkline
 reports_on_rails
 repos
 repository
+repoze.what.plugins.ini
 reprap-arduino-firmware
 reprap-host-software
 representer
@@ -11483,6 +11962,7 @@ request_streams
 request_timer
 rerlic
 rerun
+resaloc
 rescue_javascript_in_public
 research
 resemblance
@@ -11517,6 +11997,7 @@ restaurant-review
 restaurant_map
 resteasy
 restflection
+restfs
 restful-authentication
 restful-authentication-i18n
 restful-authentication-with-email
@@ -11537,6 +12018,7 @@ restful_open_id_authentication
 restful_rails
 restful_rickets
 restful_roles
+restful_stylesheets
 restful_workflow
 restfulauth
 restfulrails
@@ -11559,12 +12041,14 @@ retrospectiva
 returners-engine
 reusables
 reve
+revelation
 reventilator
 reverse-web-link-graph
 reversi
 reverything
 revifier
 reviser
+revision-san
 revisionary
 revoco
 revolting-sun
@@ -11616,6 +12100,7 @@ rhunspell
 rhyme
 ri.el
 ri_outputter
+ribbons-sample-apps
 ribs
 rice
 rich-text-area
@@ -11639,6 +12124,7 @@ rinari
 ringojs
 ringside
 ripary
+ripper
 rirb
 risingcode
 risque
@@ -11676,6 +12162,7 @@ roadrunner
 rob-art
 robastonfirstproject
 robbie
+robins_html_helpers
 robocup-client
 robohuskie
 robot-army
@@ -11722,6 +12209,7 @@ rongping
 rontrillo
 roodi
 rookie
+room
 rooswitch-nl-plugin
 root
 rootfs
@@ -11735,6 +12223,7 @@ roro-vote
 rorotitler
 rosc
 rose--htmlx--form--dbic
+rosebud
 rosetta
 rotarido
 rotavator
@@ -11747,6 +12236,7 @@ route_append
 route_by
 route_name_for
 route_speedup
+router
 routes
 routing-filter
 routing_tricks
@@ -11760,6 +12250,7 @@ roystons-test
 rparsec
 rpaste
 rpeg-markdown
+rpinventory
 rpiplanner
 rpj-project-euler
 rplatform
@@ -11812,6 +12303,7 @@ rspec-mode
 rspec-multi-matchers
 rspec-on-rails-matchers
 rspec-rails
+rspec-rails-1.x
 rspec-rails-macros
 rspec-rails-mocha
 rspec-rails-selenium-story
@@ -11860,6 +12352,8 @@ rtex
 rtime
 rtm-nightrose
 rtm.tmbundle
+rtorrent-geoip
+rtp
 rtracker
 rts
 rtunesu
@@ -11872,6 +12366,7 @@ rubber_passenger
 rubbish-emacs-setup
 rubbyt
 ruberion_server_tools
+ruberl
 rubi-buddy
 rubi_bot
 rubigraph
@@ -11917,7 +12412,9 @@ ruby-des
 ruby-dlx
 ruby-do-notation
 ruby-doctest-tmbundle
+ruby-dsl-patterns
 ruby-dtrace
+ruby-emacs
 ruby-ensembl-api
 ruby-events
 ruby-exams
@@ -11928,6 +12425,7 @@ ruby-fogbugz-api
 ruby-freebase
 ruby-fu
 ruby-fuc
+ruby-gdsii
 ruby-geometry
 ruby-git
 ruby-googlechart
@@ -11939,6 +12437,7 @@ ruby-hash-extensions
 ruby-hid
 ruby-hl7
 ruby-hmac
+ruby-http2xmpp
 ruby-icb
 ruby-imeem
 ruby-in-practice
@@ -11984,6 +12483,7 @@ ruby-opencv
 ruby-openid-2.1.2-google-enhanced
 ruby-pathtraq
 ruby-pcap
+ruby-pivotal-tracker
 ruby-playbox
 ruby-plsql
 ruby-poker
@@ -11998,6 +12498,7 @@ ruby-pth
 ruby-ptrace
 ruby-pytst
 ruby-qtvr
+ruby-quiz
 ruby-rapleaf
 ruby-rc4
 ruby-rtorrent
@@ -12019,6 +12520,7 @@ ruby-spreadsheet
 ruby-statgrab
 ruby-stemmer
 ruby-string-random
+ruby-stuff
 ruby-subset_sum
 ruby-summize
 ruby-swfer
@@ -12147,6 +12649,7 @@ rucola
 rudebay
 rudeq
 rudiegps
+rudolph
 rudybot
 rufengyue
 rufi
@@ -12180,6 +12683,7 @@ ruote-transition
 ruote-web
 ruote-web2
 ruote_plugin
+ruote_website
 rupcoming
 rupircd
 ruport
@@ -12215,6 +12719,7 @@ rzen
 rzh
 s21gutils
 s3
+s3-awesomeness
 s3-backup
 s3-fun
 s3_attachment
@@ -12227,6 +12732,7 @@ s3loadtest
 s3rbackup
 s3storage
 s5-master
+sa-daily-report
 sabandija
 sabgi-game
 sac_sitedoc
@@ -12251,11 +12757,13 @@ salty_slugs
 salva
 sameeratgmail
 sameplace
+saml2ruby
 sample
 sample-multi-language
 sample-oauth-provider
 sample-project-3
 sample-project2
+sample-python
 sample-rails-apps
 sample-rpc-server
 sample1
@@ -12263,7 +12771,9 @@ sample_models
 sampleapp
 samplegit
 samplerubyapplication
+samples
 samples-todos
+samplesink
 samplesite
 samurai-setup
 san
@@ -12280,8 +12790,10 @@ sanitize_before_save
 sanitize_email
 sanks
 sanskrit-translit
+santoro-gpg-key
 sapo-broker
 sapo-messenger-for-mac
+saps
 sarracenia
 sasha
 sashimi
@@ -12341,8 +12853,10 @@ scalampp
 scalanet
 scalasxom
 scale
+scam
 scamp
 scamper
+scander
 scanty
 scanty_wordpress_import
 scapegoat
@@ -12377,10 +12891,12 @@ scm-git-test-one-module
 scofield-project
 scolorz
 scope-builder
+scoped-associations
 scoped_access
 scoped_search
 scoped_taggables
 score-keeper
+scourer
 scout
 scout-client
 scout-nginx-status-plugin
@@ -12404,6 +12920,7 @@ screensteps-live-api-php-example
 screensteps-live-wordpress-plugin
 screenwriting-textmate-bundle
 screw-driver
+screw-fixtures
 screw-unit
 screw-unit-autotester
 screw-unit-server
@@ -12438,6 +12955,7 @@ scrubyt
 scrum
 scrumtious
 scrutator
+scs-bigtable
 scuba-table-nodeco
 scubabase
 scytale.name
@@ -12450,6 +12968,7 @@ sds
 sds-radiant
 sds-rest
 sds-tasks
+se3ue4
 sealclubber
 seamless-debugger-demo
 seamonster
@@ -12464,6 +12983,7 @@ search_object
 search_sniffer
 searchable
 searchable_by
+searchable_record
 searchatron-air
 searchery
 searchgasm
@@ -12556,6 +13076,7 @@ sep3d
 sequel
 sequel_notnaughty
 sequel_paperclip
+sequel_polymorphic
 sequel_taggable
 sequel_versioned
 sequent
@@ -12580,6 +13101,7 @@ service_merchant
 servicefb
 servicegen
 servicereg
+services_qype
 seslichatchat
 session
 session-timeout
@@ -12587,6 +13109,8 @@ session_consistency
 session_lifetime
 session_management
 sessionless_bots
+sessions
+set-attribute-order
 set_icon
 set_names_utf8
 setsolver
@@ -12618,6 +13142,7 @@ sg_wbb
 sgraham
 sha3sums
 shaback
+shabonkie
 shade
 shadow
 shaffner-wiki
@@ -12636,6 +13161,7 @@ shards
 share-this
 sharecipes
 sharethings
+sharethis
 sharp-postrank
 sharpjavacharts
 sharpjavalibrary
@@ -12668,6 +13194,7 @@ shoe_ditor
 shoe_vie
 shoes
 shoes-bbc-radio
+shoes-projects
 shoes-textmate-bundle
 shoes-tmbundle
 shoes-translator
@@ -12682,7 +13209,9 @@ shop.github.com
 shopify
 shopify-demo-app
 shopify_app
+shortboard
 shortcut-notifier
+shortestpath
 shortkeys
 shorturl
 shoto
@@ -12722,6 +13251,7 @@ sidebar-plugin
 sidebarworkshops
 sidecut
 sidmirror
+siege-2.67-fork
 siegfried
 siesta
 siffd
@@ -12748,6 +13278,7 @@ silverline-demos
 silverplatter-irc
 silverplatter-log
 silverstreak
+simbus
 similarity_engine
 simile_timeline
 simon
@@ -12772,6 +13303,7 @@ simple-recipes
 simple-rss
 simple-scala-blog
 simple-server
+simple-sharing-service
 simple-shop
 simple-slides
 simple-sms-services
@@ -12788,6 +13320,7 @@ simple_do
 simple_image
 simple_image_browser-uploader_for_tinymce
 simple_importer
+simple_ldap_authenticator
 simple_list
 simple_loc_compat
 simple_localization
@@ -12800,6 +13333,7 @@ simple_restful_openid
 simple_settings
 simple_smugmug
 simple_state_machine
+simple_upload_app
 simpleattractor
 simpleblog
 simpleclock
@@ -12807,6 +13341,7 @@ simplecm
 simpleconfig
 simplecrud
 simpledb-scala-binding
+simplegeocxf
 simplegit
 simplegtd
 simplegwtmvn
@@ -12842,6 +13377,7 @@ sinan
 sinatra
 sinatra-activerecord-tasks
 sinatra-app
+sinatra-authentication
 sinatra-book
 sinatra-cache
 sinatra-diddies
@@ -12857,6 +13393,7 @@ sinatratumblog
 since
 singing
 single-table-inheritance-cleaver
+single-write-multi-read
 single_save
 singletrack
 singpolyma
@@ -12867,6 +13404,7 @@ sinkr.cocoa
 sipgateapi
 siphon
 sips
+sipxecs
 sirtet
 sistine
 sitdown
@@ -12882,12 +13420,14 @@ site_connection
 site_notifications
 site_scaffold
 site_templatizer
+sitebase
 sitecopy-rake
 siteforge
 sitellite
 sitemap
 sitemap_gen_mobile
 sites-grid
+siteup
 siteverse
 six
 sized_header_protocol
@@ -12916,6 +13456,7 @@ skyround
 sl-viewer-source-archive
 slackbuilds
 slackcurrent
+slackpkg-slamd64
 slackrpress
 slamdbuilds
 slapp
@@ -12923,6 +13464,7 @@ slash
 slashtag
 slate
 sleekmigrate
+sleep-well
 sleepy_driver
 slice
 slicehost
@@ -12978,6 +13520,7 @@ smellatorrent
 smellyfish
 smerb
 smf-shortcut
+smfffdir
 smhelper-obfuscated-email
 smile
 smileize
@@ -13053,6 +13596,7 @@ sobre-nada
 socbibs
 social-feed-reader
 social-network
+social-search-me
 social_feed
 socialbeat
 socialcalc-xocom
@@ -13107,6 +13651,7 @@ sortable_table
 sorting
 sortroutines
 soukya
+soul-framework
 soundstorm
 soundtouch
 soup
@@ -13147,6 +13692,7 @@ sparql-client
 sparql-query
 sparrow
 sparrow-cms
+spartan
 spatial_adapter
 spatialassociations
 spawn
@@ -13172,9 +13718,11 @@ spectral-petsc
 specular
 specwatch
 speechhud
+speed-me-up
 speed_racer
 speedcrunch
 spell-with-flickr
+spellmell
 spetskhran
 sphereority
 sphinx
@@ -13184,6 +13732,7 @@ sphinx-java-api
 sphinx-theme-modipyd
 spider
 spider-proj
+spider_bot
 spider_sense
 spiderfetch
 spidermonkey-graphics
@@ -13208,7 +13757,9 @@ spot-us
 spots
 spread
 spree
+spree-accessories
 spree-active-shipping
+spree-correios-bounded-store
 spree-flexi-rate-shipping
 spree-multistore
 spree-offline-creditcard
@@ -13247,6 +13798,7 @@ spufc
 spur
 sql
 sql.sugar
+sql_gui2
 sql_helper
 sql_iabbr
 sqlcipher
@@ -13261,6 +13813,7 @@ sqlserver_adapter_mods
 sqlserverhelperscripts
 sqlup
 sqmaps
+square
 squatting
 squatting-on-http-engine
 squatting-on-mojo
@@ -13291,6 +13844,7 @@ stage_demo
 stahnkage
 stammer
 stample
+standalonedemo
 standard-markup-template
 standardista
 standfor
@@ -13318,6 +13872,7 @@ stasi
 stat
 state-ology
 state_machine
+state_machine_on_steroids
 state_select
 stateful
 statemonad
@@ -13347,6 +13902,7 @@ stegosaurus
 stellr
 stencil
 stepspecr
+stevej-emacs
 sth
 sti_factory
 stickler
@@ -13371,8 +13927,10 @@ stomptomanagerbridge
 stone
 storage
 store
+store_observer
 storefinder
 storemate
+storm
 storm-control
 story-cloud
 story-helper
@@ -13420,11 +13978,13 @@ studyplanner
 stuff
 stuff-site
 stump
+stumpwm
 stupid
 stupid.rb
 stutools
 styled_inputs
 styler
+stylesheets
 stylesheets_for_all
 stylfy
 stylish
@@ -13444,6 +14004,7 @@ substruct_app
 subsucka
 subtitle_it
 subtlepager
+subview
 success_simple2
 sucksvn
 sudoku
@@ -13459,9 +14020,12 @@ suitcase
 suite
 sumikan_mes
 summarize
+sumocpp
 sumreg
 sunlight
+sunrisesunsetlib-java
 sunspot
+sup
 sup-gitjour
 sup-hacks
 super-potato-funtime-facebook
@@ -13488,6 +14052,7 @@ supybot-mantis
 surfcomp
 surfspots
 surgical_strike
+surplusplus
 surveillance
 survey
 survey-app
@@ -13497,12 +14062,14 @@ sux0r
 sv-ide
 svg
 svg-textmate-bundle
+svg2tex
 svg_parser
 svgplanet.com-repository-of-flexible-svg-objects
 sview
 svn-hook-precommit
 svn-replicate
 svn2git
+svn2svn
 svn_auth_file
 svn_import
 svn_task
@@ -13688,6 +14255,7 @@ tasting-github
 tasty-shop
 tatr
 tattletale
+taverna_workflows
 taverzekeles2008
 tavole
 taylanpince
@@ -13712,11 +14280,13 @@ tdaemon
 tdd_baseball
 tdd_demo
 tdd_greed
+tdd_ruby_training
 tdheap
 tdiary-mixing-plugin
 tdigester
 tdn-theme
 tdsa
+tdsurface
 tea
 teachmate
 team-for-you
@@ -13847,6 +14417,7 @@ test-repository-nn
 test-rig
 test-spec-tmbundle
 test-sweet
+test-unit-ext
 test1
 test123
 test2
@@ -13887,6 +14458,7 @@ testeroff01
 testgit
 testgitrepo
 testhello
+testhome
 testing
 testing-basics
 testing-purposes
@@ -13906,6 +14478,7 @@ testorama
 testosterone
 testproj
 testproject
+testprojekt
 testprojekt1
 testrad
 testrahulflex
@@ -13967,9 +14540,11 @@ tfh_rts1
 tfofc
 tfoti-ahtsi-japanese-translation
 tftpy
+tgcd
 tgit
 th-subst
 thanksgiving
+that-cover-flow
 thc2
 the-ascii-art-project
 the-cloud-player
@@ -13994,6 +14569,7 @@ themes
 thenupill
 theora-davinci
 theorem
+theory
 thereadinglist
 theresa
 thermostat.rb
@@ -14081,6 +14657,7 @@ tilde
 tilde-slash
 tillsammans
 tilswiki
+time-duration-vague
 time-git
 time-manage
 time-me
@@ -14155,8 +14732,10 @@ title_helpers
 titlecase
 titlecase-rb
 titleize
+titleize_with_preserve_acronyms
 titlepage
 tivo.rb
+tjgamesssbds
 tk
 tkgraph
 tkpyro
@@ -14213,6 +14792,7 @@ tog_conclave
 tog_conversatio
 tog_core
 tog_depot
+tog_design
 tog_headlines
 tog_mail
 tog_picto
@@ -14232,6 +14812,7 @@ tolk
 tomate
 tombloo
 tomboy
+tomboy-cjk-disable-spellcheck
 tomboy-wordcount
 tomcat-memcached-store
 tomcat-scripts
@@ -14345,6 +14926,7 @@ translation_data_structure_merge
 translator
 translator-scripts
 translinkrss
+translit.vim
 transmission
 transmission-remote-cli
 transmogrify
@@ -14383,6 +14965,7 @@ trikker
 trimtrailingwhitespaces
 trinketmenu_buttonfacade
 trip_lister
+tripmap
 tripmate
 trippy
 trissa
@@ -14390,6 +14973,7 @@ trivial-framing-protocol
 trivial-irc
 trivial_tokens
 trivium
+troelskn-emacs
 trogdor
 trogl
 trtr
@@ -14400,6 +14984,7 @@ truncate-hanzi
 truncate_html
 trustcommerce
 trustfreedemocracy
+trutag
 truthy
 truthy_talk
 try
@@ -14432,6 +15017,7 @@ tugboat
 tugi
 tui-lvs
 tuk-tuk-orders
+tumble
 tumblelog
 tumblerb
 tumblr
@@ -14473,6 +15059,7 @@ tvdbparty
 tvinfo
 tvpc
 tw-autocomplete
+tween
 tweet
 tweet-track
 tweeteagle
@@ -14522,6 +15109,7 @@ twitter-stats-tracker
 twitter-weather
 twitter2campfire
 twitter2howm
+twitter2omb
 twitter2snarl
 twitter4r
 twitter4r-core
@@ -14537,10 +15125,12 @@ twittercompare
 twitterdroid
 twitterer
 twitteria
+twitterino
 twitterjobbot
 twitterl
 twitterlibphp
 twitterlost
+twittermate-tmbundle
 twittermydroid
 twitterpus
 twitterscript
@@ -14621,6 +15211,7 @@ uconn-homebrew-computer-club
 ucsc-identity-joomla
 ucsd-ext-java----class
 ude
+udevgames-2004
 udfkit
 udon
 uffy
@@ -14709,6 +15300,7 @@ unobtrusive_date_picker
 unobtrusive_datetime_picker
 unobtrusive_upload_progress
 upc
+upc_scanner
 upcoming_sidebar
 update-anything
 updatewithsitex.rb
@@ -14723,6 +15315,7 @@ uploadimagem
 upper-box
 uppercut
 upshot-smash-uploader
+uptime
 uptime-sms
 uptimes.el
 urcpu
@@ -14733,9 +15326,12 @@ url2mhtml
 url_encrypt
 url_safe_base64
 urlbot
+urlcron
 urldammit
+urlgrab
 urlize
 urn
+us-state-select-plugin
 us_states
 usability_on_rails
 usaco
@@ -14833,6 +15429,7 @@ validatious-on-rails
 validator
 validol
 valkyree
+valshamr
 valuation
 vanbiodiesel
 vandev
@@ -14866,6 +15463,7 @@ veneer-struts
 ventrilo_server_gui
 ver
 verago
+verastreet
 verbal
 verbs
 verilog-mangler
@@ -14949,6 +15547,7 @@ vim-speeddating
 vim-sungamma
 vim-surround
 vim_conf
+vim_config
 vim_find
 vimblog.vim
 vimconf
@@ -14989,6 +15588,7 @@ vlad-extras
 vleech
 vmath
 vmware-mate
+vmx-manager
 vncsnapshot
 voice-changer
 voice-command
@@ -15000,7 +15600,9 @@ von
 voodoodown
 voorhees
 voperm
+voppler
 vorpal
+vorpaltest
 vote
 vote_fu
 voteing
@@ -15040,6 +15642,8 @@ wake
 walford
 walk_through_coverage
 walkamap-update
+wallpaper
+wallpaper_swipe
 walrus
 waltz
 wan_pdf
@@ -15068,10 +15672,12 @@ waste-key-exchange
 wastecycling
 wastedtimeprojects.com
 wat2
+watch-night
 watch_me
 watchdog
 watcher_in_the_water
 watchit
+watchkit
 watchmemakethis
 water-cooler
 watercooler
@@ -15079,6 +15685,7 @@ waterfowl
 watir-mirror
 watirloo
 wavclass
+wavegrapher
 waver
 waves
 waxeye
@@ -15099,6 +15706,7 @@ web-design-textmate-bundle
 web-frameworks-benchmark
 web-moosecap
 web-server-backup
+web-service
 web-thermometer
 web2py
 web_api
@@ -15113,6 +15721,7 @@ web_sg_form_builder
 web_static
 web_util
 webadmin
+webapp
 webapp_gui
 webar
 webarchiver
@@ -15127,6 +15736,7 @@ webdriver
 webern
 webexpo_demo_app
 webfaction-rails-environment
+webframework
 webgal
 webgallery
 webgen
@@ -15178,6 +15788,8 @@ webwatch
 webwork
 webxs
 wed
+wee
+wee-pm
 wee_date_picker
 wee_lightbox
 weeder
@@ -15185,10 +15797,12 @@ weeklicious
 weewar
 weewar-ai
 weewar-spy
+weewar-spy-web
 weewar.net
 weg
 weisscast
 welovedc-theme
+weneed
 werkzeug
 werti
 wesabe-rubygem
@@ -15236,6 +15850,7 @@ wi-thesis-template
 wibget
 wicd-solid
 wicked
+wicket-sample
 wicket.get-portals2
 wicrawl-debian
 wide-finder-couchdb
@@ -15255,6 +15870,7 @@ wiki_irc_archiver
 wiki_lib
 wikib_parser
 wikicapital
+wikicreole
 wikifix
 wikimapper
 wikimedia-mobile
@@ -15265,6 +15881,7 @@ wikipedia_visualizer
 wikislurp
 wikiswarm
 wikiurbo
+wildcard
 wildfire1
 wildflower
 wildinventory
@@ -15275,6 +15892,7 @@ will_paginate_acts_as_solr
 will_paginate_latests
 will_paginate_with_hotkeys
 will_sign
+will_sort
 willclarkdesigns
 wilmonttest
 wimo
@@ -15291,6 +15909,7 @@ wiseguy
 wishlist
 wishlists3
 wisteria
+witchhammer
 with
 with_context
 with_named_scope
@@ -15306,11 +15925,13 @@ wizardry
 wl-utils
 wmd_on_rails
 wnp
+woblag
 wobsiter
 wocrss
 woda
 wodan
 wokkel4r
+wolf-thesis-ria-architecture
 wolf_dashboard
 wolf_funky_cache
 wollanooo
@@ -15337,6 +15958,7 @@ wordpress-activerecord-connector
 wordpress-brightkite
 wordpress-capistrano
 wordpress-github-gist-shortcode-plugin
+wordpress-quick-reply-template-plugin
 wordpress-release
 wordpress-scripts
 wordpress-svn-update
@@ -15358,6 +15980,7 @@ workshop_tutorial_application
 world-library
 world-of-music
 world_destruction
+worldmill
 wormhole
 woulda
 wow
@@ -15384,6 +16007,7 @@ wpexport
 wpjkit
 wptex
 wraith
+wrap-region.el
 wraps_attribute
 wren
 wrest
@@ -15419,6 +16043,7 @@ wvtftpd
 ww
 ww_socialnw
 wwc_m
+wwmd
 wwmqt
 wwqs
 wwqs-xmlrpc
@@ -15460,6 +16085,7 @@ xaeios
 xample
 xanguli
 xappy
+xash
 xbb
 xbee-modem-setup
 xbel
@@ -15487,6 +16113,7 @@ xfigrb
 xfn_stone
 xgame
 xgetc
+xglamo
 xhtmlchat
 xiaonei
 xiki
@@ -15494,6 +16121,7 @@ xiki_custom
 ximapd
 xkcdget
 xlv
+xmaslist
 xmbcs2
 xml-xpathscript
 xml_atom
@@ -15512,6 +16140,7 @@ xmlrpc
 xmlsp
 xmms2-mpris-bridge
 xmms2-radiobar
+xmms2-reilithion
 xmms2rcc
 xmp-manager
 xmpp
@@ -15544,6 +16173,7 @@ xpredicates
 xps
 xpwn
 xqd
+xquery
 xquery.tmbundle
 xray
 xrcwidgets
@@ -15625,12 +16255,14 @@ yarps
 yaruo
 yaruo_gc
 yarv2llvm
+yasnippet
 yasnippet-emacs-lisp-mode
 yasnippet-ruby-mode
 yasnippet-sh-mode
 yasnippets
 yasnippets-rails
 yasnippets-rspec
+yasnippets-shoulda
 yat
 yatex-yasnippet
 yaurls
@@ -15644,6 +16276,7 @@ yet_another_nested_set
 yeti
 yiki
 yinn
+yinspire
 yiptop
 yitancast
 yjir
@@ -15652,6 +16285,7 @@ ym4r-gm
 ym4r_gm
 ym4r_mapstraction
 yma4r
+ynfb
 yokadi
 yoke
 yosegaki
@@ -15670,6 +16304,7 @@ yoursway-software-update
 yoursway-sunrise
 yoursway-swt
 yoursway-taskus
+youtrace
 youtube-downloader
 youtube-g
 youtube-model
@@ -15681,12 +16316,17 @@ yui-compressor-ant-task
 yui-dhtml-forms
 yui-effects
 yui-examples
+yui-foxxtrot-widgets
 yui-scrolltabview
 yui-sortable
 yui-tools
+yui2
+yui3
 yui4rails
 yui_editor
+yuicompressor
 yuicompressor-maven-plugin
+yuidoc
 yum-connect-gem
 yuml
 yuno-s-weblog
@@ -15711,13 +16351,16 @@ zencart-1.3.8-danish
 zend-form-doctrine
 zend-framework
 zend-framework-components
+zend-php-theme
 zend_id3
+zend_phpunit_fixtures
 zendictionary
 zepcamp
 zepto-url
 zeroconf
 zerokspot.gitrecipe
 zerokspot.recipe.distutils
+zf
 zfproposals
 zfs-fuse
 zfspy
@@ -15729,6 +16372,7 @@ zile
 zile-gui
 zilo
 zink
+zipcsharp
 zippy
 zircon
 ziya
