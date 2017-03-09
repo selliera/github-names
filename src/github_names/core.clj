@@ -88,7 +88,9 @@
         matched-count (atom 0)]
     (prn :count count-names)
     (pp/pprint
-      (map
+      (sort
+        (fn [l r] (compare (:count r) (:count l)))
+        (map
         (fn [[k v]]
           (let [value (-> (filter v names) count)]
             (swap! matched-count + value)
@@ -97,7 +99,7 @@
              :count value
              :ratio (float (/ (* 100 value) count-names))
              }))
-        stat-filters)
+        stat-filters))
       )
     (prn :matched @matched-count :missed (- count-names @matched-count))
 
