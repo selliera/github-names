@@ -2,6 +2,7 @@
   (:require
     [clj-http.client :as client]
     [clojure.string :as string]
+    [clojure.pprint :as pp]
     [clojure.data.json :as json]
     [clojure.tools.cli :refer [parse-opts]]
     ))
@@ -49,25 +50,37 @@
     )
   )
 
-(defn- anum-filter [n]
-  (re-matches #"[a-z][a-z0-9-]*" n))
-
-(defn- pascal-case-filter [n]
-  (re-matches #"[A-Z][A-Za-z0-9-]*" n))
-
-(defn- underscore-filter [n]
-  (re-matches #"[a-z][a-z0-9_]*" n))
+(def stat-filters
+  {
+   :alphanum     (fn [n] (re-matches #"[a-z][a-z0-9]*" n)),
+   :anum-w-minus (fn [n] (and
+                           (re-matches #"[a-z][a-z0-9-]*" n)
+                           (re-find #"-" n))),
+   :underscore   (fn [n] (and
+                           (re-matches #"[a-z][a-z0-9_]*" n)
+                           (re-find #"_" n))),
+   :caml-case    (fn [n] (and
+                           (re-matches #"[a-zA-Z][A-Za-z0-9-]*" n)
+                           (re-find #"[A_Z]" n))),
+   }
+  )
 
 (defn stats
   "statistics on a name list"
   [names]
-  (println "count" (count names))
-  (let [alphanum-minus (-> (filter anum-filter names) count)
-        pascal-case    (-> (filter pascal-case-filter names) count)
-        underscore     (-> (filter underscore-filter names) count)]
-    (println "alphanum" alphanum-minus)
-    (println "pascal case" pascal-case)
-    (println "underscore" underscore)
+  (let [count-names (count names)]
+    (prn :count count-names)
+    (pp/pprint
+      (map
+        (fn [[k v]]
+          (let [value (-> (filter v names) count)]
+            {
+             :key k
+             :count value
+             :ratio (float (/ (* 100 value) count-names))
+             }))
+        stat-filters)
+      )
     )
   )
 
