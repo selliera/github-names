@@ -10,6 +10,7 @@
 (defn- get-names
   "fetch some github project names from url"
   [url]
+  (println url)
   (let [response (client/get url)
         status (:status response)
         headers (:headers response)
