@@ -63,7 +63,7 @@
                             (re-find #"_" n))),
    :contain-dot   (fn [n] (and
                             (re-find #"[.]" n)
-                            (re-matches #"[a-zA-Z0-9-_.]" n))),
+                            (re-matches #"[a-zA-Z0-9-_.]*" n))),
    :caml-case     (fn [n] (and
                             (re-matches #"[a-zA-Z][A-Za-z0-9]*" n)
                             (re-find #"[A-Z]" n))),
