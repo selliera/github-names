@@ -45,7 +45,7 @@
   "handle names"
   [names file]
   (if file
-    (doall (map (fn [n] (spit "names.txt" (str n "\n") :append true)) names))
+    (doall (map (fn [n] (spit file (str n "\n") :append true)) names))
     (println "names" names)
     )
   )
