@@ -1,3 +1,4 @@
+*
 Abbas
 sphinxcontrib-actdiag
 ArvadsFit
@@ -889,11 +890,8 @@ aspose-slides-java-for-python
 inception-android
 waves-adaptors
 asv_files
-*
-*
 django-allauth-2fa
 django-crispy-admin
-
 os-api-cache
 vertica-sqlalchemy-0.2
 AL---Application-Launcher
