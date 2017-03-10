@@ -141,7 +141,6 @@
             [ "intersect" (:description x) (:description y) inter]))))
       (pp/pprint (reduce sets/difference (set names) (map :set data)))
       )
-
     )
   )
 
