@@ -10,6 +10,6 @@
   (testing "simple name"
     (let [d (get-data ["simple-name"])]
       (is (= (count stat-filters) (count d)))
-      (is (= 1 (-> d (map :count) (reduce +))))
+      (is (= 1 (reduce + (map :count d))))
       )))
 
