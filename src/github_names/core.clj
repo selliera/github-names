@@ -55,57 +55,57 @@
 (def stat-filters
   [
    {
-    :key :alphanum
+    :description "pure lowercase alphanumeric"
     :filter       (fn [n] (re-matches #"[a-z][a-z0-9]*" n))
     }
    {
-    :key :anum-w-minus
+    :description "lowercase alphanumeric with minus"
     :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9-]*" n)
                             (re-find #"-" n)))
     }
    {
-    :key :underscore
+    :description "lowercase alphanumeric with underscore"
     :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9_]*" n)
                             (re-find #"_" n)))
     }
    {
-    :key :contain-dot
+    :description "contains a dot"
     :filter       (fn [n] (and
                             (re-find #"[.]" n)
                             (re-matches #"[a-zA-Z0-9-_.]*" n)))
     }
    {
-    :key :caml-case
+    :description "caml case with no separators"
     :filter       (fn [n] (and
                             (re-matches #"[a-zA-Z][A-Za-z0-9]*" n)
                             (re-find #"[A-Z]" n)))
     }
    {
-    :key :caml-case-sep
+    :description "caml case with minus or underscore separators"
     :filter       (fn [n] (and
                             (re-matches #"[a-zA-Z][A-Za-z0-9-_]*" n)
                             (re-find #"[A-Z]" n)
                             (re-find #"[-_]" n)))
     }
    {
-    :key :numeric-start
+    :description "alphanumeric starting with a number"
     :filter       (fn [n] (re-matches #"[0-9][A-Za-z0-9-_]*" n))
     }
    {
-    :key :sep-start
+    :description "alphanumeric starting with a minus or underscore"
     :filter       (fn [n] (re-matches #"[-_][A-Za-z0-9-_]*" n))
     }
    {
-    :key :mix-chars'-_'
+    :description "lowercase alphanumeric using both minus and underscore"
     :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9-_]*" n)
                             (re-find #"-" n)
                             (re-find #"_" n) ))
     }
    {
-    :key :strange-chars
+    :description "name containing charaters that are not alphanumeric, minus, underscore or dot"
     :filter       (fn [n] (re-find #"[^a-zA-Z0-9-_.]" n))
     }
    ]
@@ -116,30 +116,29 @@
   [names]
   (let [count-names (count names)
         matched-count (atom 0)]
-    (prn :count count-names)
+    (printf "count, %s%n" count-names)
     (let [data (sort
         (fn [l r] (compare (:count r) (:count l)))
         (map
-          (fn [{k :key v :filter}]
+          (fn [{k :description v :filter}]
             (let [s (filter v names)
                   value (count s)]
               (swap! matched-count + value)
               {
-               :key k
-               :set (set s)
                :count value
                :ratio (float (/ (* 100 value) count-names))
+               :set (set s)
+               :description k
                }))
           stat-filters))]
-      (pp/pprint (map (fn [v] (dissoc v :set)) data))
       (doall (map (fn [v]
-                    (printf "%s, %s, %s%n" (:key v) (:count v) (:ratio v)))
+                    (printf "%s, %s, %s%n" (:count v) (:ratio v) (:description v)))
                   data))
       (prn :matched @matched-count :missed (- count-names @matched-count))
       (pp/pprint (remove nil?
         (for [x data y data :when (not= x y)]
           (if-let [inter (seq (sets/intersection (:set x) (:set y)))]
-            [ "intersect" (:key x) (:key y) inter]))))
+            [ "intersect" (:description x) (:description y) inter]))))
       (pp/pprint (reduce sets/difference (set names) (map :set data)))
       )
 
