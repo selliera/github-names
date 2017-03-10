@@ -18,7 +18,7 @@
         next-url (-> response :links :next :href)
         body     (-> response :body json/read-str)]
     (when (== status 200)
-      [(map (fn [x] (.get x "name")) body) next-url]
+      [(map (fn [x] (get x "name")) body) next-url]
       )
     )
   )
