@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/selliera/github-names.svg?branch=master)](https://travis-ci.org/selliera/github-names)
+
 # github-names
 
 A Clojure application designed to obtain some statistics on project names as
