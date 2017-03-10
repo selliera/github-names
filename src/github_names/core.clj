@@ -111,36 +111,38 @@
    ]
   )
 
+(defn get-data
+  [names]
+  (let [count-names (count names)]
+    (sort
+      (fn [l r] (compare (:count r) (:count l)))
+      (map
+        (fn [{k :description v :filter}]
+          (let [s (filter v names)
+                value (count s)]
+            {
+             :count value
+             :ratio (float (/ (* 100 value) count-names))
+             :set (set s)
+             :description k
+             })) stat-filters))))
+
 (defn stats
   "statistics on a name list"
   [names]
   (let [count-names (count names)
-        matched-count (atom 0)]
+        data (get-data names)
+        matched-count (reduce + (map :count data))]
     (printf "count, %s%n" count-names)
-    (let [data (sort
-        (fn [l r] (compare (:count r) (:count l)))
-        (map
-          (fn [{k :description v :filter}]
-            (let [s (filter v names)
-                  value (count s)]
-              (swap! matched-count + value)
-              {
-               :count value
-               :ratio (float (/ (* 100 value) count-names))
-               :set (set s)
-               :description k
-               }))
-          stat-filters))]
-      (doall (map (fn [v]
-                    (printf "%s, %s, %s%n" (:count v) (:ratio v) (:description v)))
-                  data))
-      (prn :matched @matched-count :missed (- count-names @matched-count))
-      (pp/pprint (remove nil?
-        (for [x data y data :when (not= x y)]
-          (if-let [inter (seq (sets/intersection (:set x) (:set y)))]
-            [ "intersect" (:description x) (:description y) inter]))))
-      (pp/pprint (reduce sets/difference (set names) (map :set data)))
-      )
+    (doall (map (fn [v]
+                  (printf "%s, %s, %s%n" (:count v) (:ratio v) (:description v)))
+                data))
+    (prn :matched matched-count :missed (- count-names matched-count))
+    (pp/pprint (remove nil?
+                       (for [x data y data :when (not= x y)]
+                         (if-let [inter (seq (sets/intersection (:set x) (:set y)))]
+                           [ "intersect" (:description x) (:description y) inter]))))
+    (pp/pprint (reduce sets/difference (set names) (map :set data)))
     )
   )
 
