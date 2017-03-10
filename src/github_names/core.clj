@@ -1,9 +1,9 @@
 (ns github-names.core
   (:require
-    [clj-http.client :as client]
-    [clojure.string :as string]
-    [clojure.set :as sets]
-    [clojure.pprint :as pp]
+    [clj-http.client   :as client]
+    [clojure.string    :as string]
+    [clojure.set       :as sets]
+    [clojure.pprint    :as pp]
     [clojure.data.json :as json]
     [clojure.tools.cli :refer [parse-opts]]
     ))
@@ -13,10 +13,10 @@
   [url]
   (println url)
   (let [response (client/get url)
-        status (:status response)
-        headers (:headers response)
+        status   (:status response)
+        headers  (:headers response)
         next-url (-> response :links :next :href)
-        body (-> response :body json/read-str)]
+        body     (-> response :body json/read-str)]
     (when (== status 200)
       [(map (fn [x] (.get x "name")) body) next-url]
       )
@@ -87,35 +87,29 @@
   (let [count-names (count names)
         matched-count (atom 0)]
     (prn :count count-names)
-    (pp/pprint
-      (sort
+    (let [data (sort
         (fn [l r] (compare (:count r) (:count l)))
         (map
         (fn [[k v]]
-          (let [value (-> (filter v names) count)]
+          (let [s (filter v names)
+                value (count s)]
             (swap! matched-count + value)
             {
              :key k
+             :set (set s)
              :count value
              :ratio (float (/ (* 100 value) count-names))
              }))
-        stat-filters))
-      )
-    (prn :matched @matched-count :missed (- count-names @matched-count))
-
-    (let [sets
-          (map (fn [[k v]]
-                 (let [value (filter v names)]
-                   {
-                    :key k
-                    :set (set value)
-                    })) stat-filters)]
+        stat-filters))]
+      (pp/pprint (map (fn [v] (dissoc v :set)) data))
+      (prn :matched @matched-count :missed (- count-names @matched-count))
       (pp/pprint (remove nil?
-        (for [x sets y sets :when (not= x y)]
+        (for [x data y data :when (not= x y)]
           (if-let [inter (seq (sets/intersection (:set x) (:set y)))]
             [ "intersect" (:key x) (:key y) inter]))))
-      (pp/pprint (reduce sets/difference (set names) (map :set sets)))
+      (pp/pprint (reduce sets/difference (set names) (map :set data)))
       )
+
     )
   )
 
