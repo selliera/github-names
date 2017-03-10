@@ -53,32 +53,62 @@
   )
 
 (def stat-filters
-  {
-   :alphanum      (fn [n] (re-matches #"[a-z][a-z0-9]*" n)),
-   :anum-w-minus  (fn [n] (and
+  [
+   {
+    :key :alphanum
+    :filter       (fn [n] (re-matches #"[a-z][a-z0-9]*" n))
+    }
+   {
+    :key :anum-w-minus
+    :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9-]*" n)
-                            (re-find #"-" n))),
-   :underscore    (fn [n] (and
+                            (re-find #"-" n)))
+    }
+   {
+    :key :underscore
+    :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9_]*" n)
-                            (re-find #"_" n))),
-   :contain-dot   (fn [n] (and
+                            (re-find #"_" n)))
+    }
+   {
+    :key :contain-dot
+    :filter       (fn [n] (and
                             (re-find #"[.]" n)
-                            (re-matches #"[a-zA-Z0-9-_.]*" n))),
-   :caml-case     (fn [n] (and
+                            (re-matches #"[a-zA-Z0-9-_.]*" n)))
+    }
+   {
+    :key :caml-case
+    :filter       (fn [n] (and
                             (re-matches #"[a-zA-Z][A-Za-z0-9]*" n)
-                            (re-find #"[A-Z]" n))),
-   :caml-case-sep (fn [n] (and
+                            (re-find #"[A-Z]" n)))
+    }
+   {
+    :key :caml-case-sep
+    :filter       (fn [n] (and
                             (re-matches #"[a-zA-Z][A-Za-z0-9-_]*" n)
                             (re-find #"[A-Z]" n)
-                            (re-find #"[-_]" n))),
-   :numeric-start (fn [n] (re-matches #"[0-9][A-Za-z0-9-_]*" n)),
-   :sep-start     (fn [n] (re-matches #"[-_][A-Za-z0-9-_]*" n)),
-   :mix-chars'-_' (fn [n] (and
+                            (re-find #"[-_]" n)))
+    }
+   {
+    :key :numeric-start
+    :filter       (fn [n] (re-matches #"[0-9][A-Za-z0-9-_]*" n))
+    }
+   {
+    :key :sep-start
+    :filter       (fn [n] (re-matches #"[-_][A-Za-z0-9-_]*" n))
+    }
+   {
+    :key :mix-chars'-_'
+    :filter       (fn [n] (and
                             (re-matches #"[a-z][a-z0-9-_]*" n)
                             (re-find #"-" n)
-                            (re-find #"_" n) )),
-   :strange-chars (fn [n] (re-find #"[^a-zA-Z0-9-_.]" n)),
-   }
+                            (re-find #"_" n) ))
+    }
+   {
+    :key :strange-chars
+    :filter       (fn [n] (re-find #"[^a-zA-Z0-9-_.]" n))
+    }
+   ]
   )
 
 (defn stats
@@ -90,17 +120,17 @@
     (let [data (sort
         (fn [l r] (compare (:count r) (:count l)))
         (map
-        (fn [[k v]]
-          (let [s (filter v names)
-                value (count s)]
-            (swap! matched-count + value)
-            {
-             :key k
-             :set (set s)
-             :count value
-             :ratio (float (/ (* 100 value) count-names))
-             }))
-        stat-filters))]
+          (fn [{k :key v :filter}]
+            (let [s (filter v names)
+                  value (count s)]
+              (swap! matched-count + value)
+              {
+               :key k
+               :set (set s)
+               :count value
+               :ratio (float (/ (* 100 value) count-names))
+               }))
+          stat-filters))]
       (pp/pprint (map (fn [v] (dissoc v :set)) data))
       (doall (map (fn [v]
                     (printf "%s, %s, %s%n" (:key v) (:count v) (:ratio v)))
