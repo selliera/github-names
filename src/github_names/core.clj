@@ -102,6 +102,9 @@
              }))
         stat-filters))]
       (pp/pprint (map (fn [v] (dissoc v :set)) data))
+      (doall (map (fn [v]
+                    (printf "%s, %s, %s%n" (:key v) (:count v) (:ratio v)))
+                  data))
       (prn :matched @matched-count :missed (- count-names @matched-count))
       (pp/pprint (remove nil?
         (for [x data y data :when (not= x y)]
